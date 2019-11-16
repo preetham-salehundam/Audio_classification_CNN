@@ -1,0 +1,2081 @@
+,fname,label
+0,WSU_P2_DOWN_UNLOADED.wav_split_21,P2_UNLOADED
+1,background_06_02_03.wav_split_27,BACKGROUND_NOISE
+2,background_06_02_01.wav_split_36,BACKGROUND_NOISE
+3,train.wav_split_16,BACKGROUND_NOISE
+4,background_06_02_04.wav_split_20,BACKGROUND_NOISE
+5,background_06_02_01.wav_split_1,BACKGROUND_NOISE
+6,WSU_P2_HIGH_LOADED_DOWN copy 2.wav_split_7,P2_LOADED
+7,train.wav_split_29,BACKGROUND_NOISE
+8,canopy_up_01.wav_split_4,BACKGROUND_NOISE
+9,purdue_P2_unloaded_up_down copy 2.wav_split_40,P2_UNLOADED
+10,background_06_02_03.wav_split_18,BACKGROUND_NOISE
+11,background_in_air_iris.wav_split_34,BACKGROUND_NOISE
+12,P1_stationary copy.wav_split_32,P1
+13,gator.wav_split_34,BACKGROUND_NOISE
+14,background_06_02_01.wav_split_6,BACKGROUND_NOISE
+15,background_06_02_04.wav_split_27,BACKGROUND_NOISE
+16,in_air_iris_over_home_base.wav_split_8,BACKGROUND_NOISE
+17,in_air_iris_far_away.wav_split_39,BACKGROUND_NOISE
+18,WSU_P2_UNLOADED_BACK_AND_FORTH copy.wav_split_38,P2_UNLOADED
+19,background_06_02_01.wav_split_31,BACKGROUND_NOISE
+20,train.wav_split_11,BACKGROUND_NOISE
+21,background_06_02_03.wav_split_20,BACKGROUND_NOISE
+22,WSU_P2_DOWN_UNLOADED.wav_split_26,P2_UNLOADED
+23,gator.wav_split_33,BACKGROUND_NOISE
+24,background_in_air_iris.wav_split_33,BACKGROUND_NOISE
+25,P1_stationary copy.wav_split_35,P1
+26,background_06_02_04.wav_split_18,BACKGROUND_NOISE
+27,WSU_P2_DOWN_UNLOADED.wav_split_19,P2_UNLOADED
+28,canopy_up_01.wav_split_3,BACKGROUND_NOISE
+29,background_06_02_04.wav_split_11,BACKGROUND_NOISE
+30,P1_stationary.wav_split_32,P1
+31,WSU_P2_UNLOADED_UP_AND_DOWN.wav_split_32,P2_UNLOADED
+32,WSU_P2_LOADED_up_and_down.wav_split_35,P2_LOADED
+33,background_06_02_03.wav_split_16,BACKGROUND_NOISE
+34,WSU_P2_DOWN_UNLOADED.wav_split_10,P2_UNLOADED
+35,WSU_P2_HIGH_LOADED_DOWN copy 2.wav_split_9,P2_LOADED
+36,purdue_P2_unloaded_up_down copy.wav_split_4,P2_UNLOADED
+37,train.wav_split_27,BACKGROUND_NOISE
+38,foo.wav_split_5,BACKGROUND_NOISE
+39,WSU_P2_LOADED_up_and_down copy.wav_split_2,P2_LOADED
+40,in_air_iris_over_home_base.wav_split_40,BACKGROUND_NOISE
+41,P1_up_and_down.wav_split_33,P1
+42,in_air_iris_over_home_base.wav_split_1,BACKGROUND_NOISE
+43,background_06_02_01.wav_split_38,BACKGROUND_NOISE
+44,WSU_P2_LOADED_up_and_down copy 2.wav_split_3,P2_LOADED
+45,train.wav_split_18,BACKGROUND_NOISE
+46,in_air_iris_far_away.wav_split_30,BACKGROUND_NOISE
+47,WSU_P2_UNLOADED_BACK_AND_FORTH copy.wav_split_31,P2_UNLOADED
+48,WSU_P2_UNLOADED_BACK_AND_FORTH.wav_split_40,P2_UNLOADED
+49,background_06_02_03.wav_split_29,BACKGROUND_NOISE
+50,train.wav_split_20,BACKGROUND_NOISE
+51,foo.wav_split_2,BACKGROUND_NOISE
+52,purdue_P2_unloaded_up_down copy.wav_split_3,P2_UNLOADED
+53,WSU_P2_DOWN_UNLOADED.wav_split_17,P2_UNLOADED
+54,background_06_02_03.wav_split_11,BACKGROUND_NOISE
+55,P1_stationary.wav_split_35,P1
+56,WSU_P2_UNLOADED_UP_AND_DOWN.wav_split_35,P2_UNLOADED
+57,WSU_P2_LOADED_up_and_down.wav_split_32,P2_LOADED
+58,background_06_02_04.wav_split_16,BACKGROUND_NOISE
+59,WSU_P2_DOWN_UNLOADED.wav_split_28,P2_UNLOADED
+60,in_air_iris_far_away.wav_split_37,BACKGROUND_NOISE
+61,WSU_P2_UNLOADED_BACK_AND_FORTH copy.wav_split_36,P2_UNLOADED
+62,WSU_P2_LOADED_up_and_down copy 2.wav_split_4,P2_LOADED
+63,background_06_02_04.wav_split_29,BACKGROUND_NOISE
+64,background_06_02_01.wav_split_8,BACKGROUND_NOISE
+65,in_air_iris_over_home_base.wav_split_6,BACKGROUND_NOISE
+66,WSU_P2_LOADED_up_and_down copy.wav_split_5,P2_LOADED
+67,P1_up_and_down.wav_split_34,P1
+68,WSU_P2_UNLOADED_BACK_AND_FORTH.wav_split_13,P2_UNLOADED
+69,purdue_P2_unloaded_up_down copy 2.wav_split_22,P2_UNLOADED
+70,background_in_air_iris_2.wav_split_30,BACKGROUND_NOISE
+71,WSU_P2_LOADED_BACK_AND_FORTH copy 2.wav_split_35,P2_LOADED
+72,background_eric_doing_stuff.wav_split_20,BACKGROUND_NOISE
+73,purrdue_P2_standing copy.wav_split_3,P2
+74,in_air_iris_over_home_base.wav_split_13,BACKGROUND_NOISE
+75,WSU_P2_UNLOADED_BACK_AND_FORTH copy 2.wav_split_32,P2_UNLOADED
+76,canopy_up_01.wav_split_20,BACKGROUND_NOISE
+77,WSU_P2_LOADED_BACK_AND_FORTH_2 copy 2.wav_split_2,P2_LOADED
+78,WSU_P2_UNLOADED_UP_AND_DOWN.wav_split_8,P2_UNLOADED
+79,WSU_P2_UNLOADED_BACK_AND_FORTH copy 2.wav_split_35,P2_UNLOADED
+80,in_air_iris_over_home_base.wav_split_14,BACKGROUND_NOISE
+81,background_eric_doing_stuff.wav_split_27,BACKGROUND_NOISE
+82,purrdue_P2_standing copy.wav_split_4,P2
+83,WSU_P2_LOADED_BACK_AND_FORTH copy 2.wav_split_32,P2_LOADED
+84,background_in_air_iris_2.wav_split_37,BACKGROUND_NOISE
+85,canopy_up_01.wav_split_18,BACKGROUND_NOISE
+86,purdue_P2_unloaded_up_down copy 2.wav_split_25,P2_UNLOADED
+87,WSU_P2_UNLOADED_BACK_AND_FORTH.wav_split_14,P2_UNLOADED
+88,background_eric_doing_stuff.wav_split_18,BACKGROUND_NOISE
+89,WSU_P2_LOADED_BACK_AND_FORTH_2 copy 2.wav_split_5,P2_LOADED
+90,canopy_up_01.wav_split_27,BACKGROUND_NOISE
+91,background_eric_doing_stuff.wav_split_11,BACKGROUND_NOISE
+92,WSU_P2_DOWN_UNLOADED copy 2.wav_split_35,P2_UNLOADED
+93,WSU_P2_LOADED_up_and_down.wav_split_2,P2_LOADED
+94,in_air_iris_over_home_base.wav_split_22,BACKGROUND_NOISE
+95,WSU_P2_UNLOADED_UP_AND_DOWN.wav_split_6,P2_UNLOADED
+96,purdue_P2_unloaded_up_down copy 2.wav_split_13,P2_UNLOADED
+97,WSU_P2_UNLOADED_BACK_AND_FORTH.wav_split_22,P2_UNLOADED
+98,WSU_P2_LOADED_BACK_AND_FORTH_2.wav_split_32,P2_LOADED
+99,canopy_up_01.wav_split_11,BACKGROUND_NOISE
+100,canopy_up_01.wav_split_29,BACKGROUND_NOISE
+101,WSU_P2_LOADED_BACK_AND_FORTH_2.wav_split_35,P2_LOADED
+102,WSU_P2_UNLOADED_BACK_AND_FORTH.wav_split_25,P2_UNLOADED
+103,purdue_P2_unloaded_up_down copy 2.wav_split_14,P2_UNLOADED
+104,in_air_iris_over_home_base.wav_split_25,BACKGROUND_NOISE
+105,WSU_P2_UNLOADED_UP_AND_DOWN.wav_split_1,P2_UNLOADED
+106,WSU_P2_LOADED_up_and_down.wav_split_5,P2_LOADED
+107,WSU_P2_DOWN_UNLOADED copy 2.wav_split_32,P2_UNLOADED
+108,background_eric_doing_stuff.wav_split_16,BACKGROUND_NOISE
+109,canopy_up_01.wav_split_16,BACKGROUND_NOISE
+110,background_in_air_iris_2.wav_split_39,BACKGROUND_NOISE
+111,background_eric_doing_stuff.wav_split_29,BACKGROUND_NOISE
+112,background_06_02_04.wav_split_17,BACKGROUND_NOISE
+113,WSU_P2_LOADED_up_and_down.wav_split_33,P2_LOADED
+114,WSU_P2_UNLOADED_UP_AND_DOWN.wav_split_34,P2_UNLOADED
+115,P1_stationary.wav_split_34,P1
+116,purdue_P2_unloaded_up_down copy.wav_split_2,P2_UNLOADED
+117,train.wav_split_21,BACKGROUND_NOISE
+118,foo.wav_split_3,BACKGROUND_NOISE
+119,background_06_02_03.wav_split_10,BACKGROUND_NOISE
+120,WSU_P2_DOWN_UNLOADED.wav_split_16,P2_UNLOADED
+121,P1_up_and_down.wav_split_35,P1
+122,WSU_P2_LOADED_up_and_down copy.wav_split_4,P2_LOADED
+123,in_air_iris_over_home_base.wav_split_7,BACKGROUND_NOISE
+124,background_06_02_01.wav_split_9,BACKGROUND_NOISE
+125,background_06_02_04.wav_split_28,BACKGROUND_NOISE
+126,WSU_P2_DOWN_UNLOADED.wav_split_29,P2_UNLOADED
+127,WSU_P2_LOADED_up_and_down copy 2.wav_split_5,P2_LOADED
+128,WSU_P2_UNLOADED_BACK_AND_FORTH copy.wav_split_37,P2_UNLOADED
+129,in_air_iris_far_away.wav_split_36,BACKGROUND_NOISE
+130,WSU_P2_DOWN_UNLOADED.wav_split_11,P2_UNLOADED
+131,background_06_02_03.wav_split_17,BACKGROUND_NOISE
+132,train.wav_split_26,BACKGROUND_NOISE
+133,foo.wav_split_4,BACKGROUND_NOISE
+134,WSU_P2_HIGH_LOADED_DOWN copy 2.wav_split_8,P2_LOADED
+135,purdue_P2_unloaded_up_down copy.wav_split_5,P2_UNLOADED
+136,WSU_P2_LOADED_up_and_down.wav_split_34,P2_LOADED
+137,WSU_P2_UNLOADED_UP_AND_DOWN.wav_split_33,P2_UNLOADED
+138,P1_stationary.wav_split_33,P1
+139,background_06_02_04.wav_split_10,BACKGROUND_NOISE
+140,WSU_P2_UNLOADED_BACK_AND_FORTH copy.wav_split_30,P2_UNLOADED
+141,in_air_iris_far_away.wav_split_31,BACKGROUND_NOISE
+142,background_06_02_01.wav_split_39,BACKGROUND_NOISE
+143,WSU_P2_LOADED_up_and_down copy 2.wav_split_2,P2_LOADED
+144,train.wav_split_19,BACKGROUND_NOISE
+145,background_06_02_03.wav_split_28,BACKGROUND_NOISE
+146,P1_up_and_down.wav_split_32,P1
+147,WSU_P2_LOADED_up_and_down copy.wav_split_3,P2_LOADED
+148,background_06_02_01.wav_split_30,BACKGROUND_NOISE
+149,train.wav_split_10,BACKGROUND_NOISE
+150,WSU_P2_UNLOADED_BACK_AND_FORTH copy.wav_split_39,P2_UNLOADED
+151,in_air_iris_far_away.wav_split_38,BACKGROUND_NOISE
+152,WSU_P2_DOWN_UNLOADED.wav_split_27,P2_UNLOADED
+153,background_06_02_03.wav_split_21,BACKGROUND_NOISE
+154,in_air_iris_over_home_base.wav_split_9,BACKGROUND_NOISE
+155,background_06_02_04.wav_split_26,BACKGROUND_NOISE
+156,background_06_02_01.wav_split_7,BACKGROUND_NOISE
+157,WSU_P2_DOWN_UNLOADED.wav_split_18,P2_UNLOADED
+158,WSU_P2_HIGH_LOADED_DOWN copy 2.wav_split_1,P2_LOADED
+159,canopy_up_01.wav_split_2,BACKGROUND_NOISE
+160,gator.wav_split_32,BACKGROUND_NOISE
+161,background_06_02_04.wav_split_19,BACKGROUND_NOISE
+162,background_in_air_iris.wav_split_32,BACKGROUND_NOISE
+163,P1_stationary copy.wav_split_34,P1
+164,background_06_02_04.wav_split_21,BACKGROUND_NOISE
+165,background_06_02_03.wav_split_26,BACKGROUND_NOISE
+166,WSU_P2_DOWN_UNLOADED.wav_split_20,P2_UNLOADED
+167,background_06_02_01.wav_split_37,BACKGROUND_NOISE
+168,train.wav_split_17,BACKGROUND_NOISE
+169,background_in_air_iris.wav_split_35,BACKGROUND_NOISE
+170,P1_stationary copy.wav_split_33,P1
+171,gator.wav_split_35,BACKGROUND_NOISE
+172,train.wav_split_28,BACKGROUND_NOISE
+173,canopy_up_01.wav_split_5,BACKGROUND_NOISE
+174,WSU_P2_HIGH_LOADED_DOWN copy 2.wav_split_6,P2_LOADED
+175,background_06_02_03.wav_split_19,BACKGROUND_NOISE
+176,WSU_P2_DOWN_UNLOADED copy 2.wav_split_33,P2_UNLOADED
+177,WSU_P2_LOADED_up_and_down.wav_split_4,P2_LOADED
+178,in_air_iris_over_home_base.wav_split_24,BACKGROUND_NOISE
+179,background_eric_doing_stuff.wav_split_17,BACKGROUND_NOISE
+180,canopy_up_01.wav_split_28,BACKGROUND_NOISE
+181,WSU_P2_LOADED_BACK_AND_FORTH_2.wav_split_34,P2_LOADED
+182,purdue_P2_unloaded_up_down copy 2.wav_split_15,P2_UNLOADED
+183,WSU_P2_UNLOADED_BACK_AND_FORTH.wav_split_24,P2_UNLOADED
+184,background_eric_doing_stuff.wav_split_28,BACKGROUND_NOISE
+185,canopy_up_01.wav_split_17,BACKGROUND_NOISE
+186,background_in_air_iris_2.wav_split_38,BACKGROUND_NOISE
+187,WSU_P2_UNLOADED_BACK_AND_FORTH.wav_split_23,P2_UNLOADED
+188,purdue_P2_unloaded_up_down copy 2.wav_split_12,P2_UNLOADED
+189,WSU_P2_LOADED_BACK_AND_FORTH_2.wav_split_33,P2_LOADED
+190,background_eric_doing_stuff.wav_split_10,BACKGROUND_NOISE
+191,WSU_P2_UNLOADED_UP_AND_DOWN.wav_split_7,P2_UNLOADED
+192,in_air_iris_over_home_base.wav_split_23,BACKGROUND_NOISE
+193,WSU_P2_LOADED_up_and_down.wav_split_3,P2_LOADED
+194,WSU_P2_DOWN_UNLOADED copy 2.wav_split_34,P2_UNLOADED
+195,canopy_up_01.wav_split_10,BACKGROUND_NOISE
+196,background_in_air_iris_2.wav_split_36,BACKGROUND_NOISE
+197,canopy_up_01.wav_split_19,BACKGROUND_NOISE
+198,WSU_P2_LOADED_BACK_AND_FORTH copy 2.wav_split_33,P2_LOADED
+199,WSU_P2_UNLOADED_BACK_AND_FORTH.wav_split_15,P2_UNLOADED
+200,purdue_P2_unloaded_up_down copy 2.wav_split_24,P2_UNLOADED
+201,in_air_iris_over_home_base.wav_split_15,BACKGROUND_NOISE
+202,WSU_P2_UNLOADED_BACK_AND_FORTH copy 2.wav_split_34,P2_UNLOADED
+203,background_eric_doing_stuff.wav_split_26,BACKGROUND_NOISE
+204,purrdue_P2_standing copy.wav_split_5,P2
+205,canopy_up_01.wav_split_26,BACKGROUND_NOISE
+206,background_eric_doing_stuff.wav_split_19,BACKGROUND_NOISE
+207,WSU_P2_LOADED_BACK_AND_FORTH_2 copy 2.wav_split_4,P2_LOADED
+208,background_eric_doing_stuff.wav_split_21,BACKGROUND_NOISE
+209,purrdue_P2_standing copy.wav_split_2,P2
+210,WSU_P2_UNLOADED_BACK_AND_FORTH copy 2.wav_split_33,P2_UNLOADED
+211,in_air_iris_over_home_base.wav_split_12,BACKGROUND_NOISE
+212,purdue_P2_unloaded_up_down copy 2.wav_split_23,P2_UNLOADED
+213,WSU_P2_UNLOADED_BACK_AND_FORTH.wav_split_12,P2_UNLOADED
+214,WSU_P2_LOADED_BACK_AND_FORTH copy 2.wav_split_34,P2_LOADED
+215,background_in_air_iris_2.wav_split_31,BACKGROUND_NOISE
+216,WSU_P2_UNLOADED_UP_AND_DOWN.wav_split_9,P2_UNLOADED
+217,WSU_P2_LOADED_BACK_AND_FORTH_2 copy 2.wav_split_3,P2_LOADED
+218,canopy_up_01.wav_split_21,BACKGROUND_NOISE
+219,canopy_heavy_wind.wav_split_23,BACKGROUND_NOISE
+220,WSU_P2_HIGH_LOADED_DOWN copy 2.wav_split_16,P2_LOADED
+221,purrdue_P2_standing copy 2.wav_split_38,P2
+222,purdue_P2_unloaded_up_down copy 2.wav_split_8,P2_UNLOADED
+223,purdue_P2_unloaded_up_down.wav_split_32,P2_UNLOADED
+224,train.wav_split_2,BACKGROUND_NOISE
+225,WSU_P2_LOADED_up_and_down copy.wav_split_38,P2_LOADED
+226,P1_up_and_down copy 2.wav_split_27,P1
+227,WSU_P2_LOADED_up_and_down copy 2.wav_split_20,P2_LOADED
+228,WSU_P2_HIGH_LOADED_DOWN copy 2.wav_split_29,P2_LOADED
+229,train2.wav_split_13,BACKGROUND_NOISE
+230,purdue_P2_unloaded_up_down copy.wav_split_25,P2_UNLOADED
+231,in_air_iris_far_away.wav_split_9,BACKGROUND_NOISE
+232,WSU_P2_LOADED_BACK_AND_FORTH_2 copy 2.wav_split_11,P2_LOADED
+233,background_in_air_iris_3.wav_split_37,BACKGROUND_NOISE
+234,P1_up_and_down copy 2.wav_split_18,P1
+235,WSU_P2_UNLOADED_UP_AND_DOWN copy 2.wav_split_11,P2_UNLOADED
+236,WSU_P2_LOADED_up_and_down copy 2.wav_split_27,P2_LOADED
+237,P1_up_and_down copy 2.wav_split_20,P1
+238,purdue_P2_unloaded_up_down.wav_split_35,P2_UNLOADED
+239,train.wav_split_5,BACKGROUND_NOISE
+240,WSU_P2_UNLOADED_UP_AND_DOWN copy 2.wav_split_29,P2_UNLOADED
+241,WSU_P2_DOWN_UNLOADED copy.wav_split_39,P2_UNLOADED
+242,WSU_P2_HIGH_LOADED_DOWN copy 2.wav_split_11,P2_LOADED
+243,canopy_heavy_wind.wav_split_24,BACKGROUND_NOISE
+244,WSU_P2_LOADED_BACK_AND_FORTH_2 copy 2.wav_split_29,P2_LOADED
+245,WSU_P2_LOADED_BACK_AND_FORTH copy 2.wav_split_8,P2_LOADED
+246,WSU_P2_UNLOADED_UP_AND_DOWN copy 2.wav_split_16,P2_UNLOADED
+247,background_in_air_iris_3.wav_split_30,BACKGROUND_NOISE
+248,WSU_P2_LOADED_up_and_down copy 2.wav_split_18,P2_LOADED
+249,background_06_02_04.wav_split_7,BACKGROUND_NOISE
+250,WSU_P2_LOADED_BACK_AND_FORTH_2 copy 2.wav_split_16,P2_LOADED
+251,train2.wav_split_14,BACKGROUND_NOISE
+252,purdue_P2_unloaded_up_down copy.wav_split_22,P2_UNLOADED
+253,background_in_air_iris_3.wav_split_39,BACKGROUND_NOISE
+254,P1_up_and_down copy 2.wav_split_16,P1
+255,WSU_P2_LOADED_up_and_down copy 2.wav_split_11,P2_LOADED
+256,WSU_P2_HIGH_LOADED_DOWN copy 2.wav_split_27,P2_LOADED
+257,in_air_iris_far_away.wav_split_7,BACKGROUND_NOISE
+258,canopy_heavy_wind.wav_split_12,BACKGROUND_NOISE
+259,purrdue_P2_standing copy.wav_split_33,P2
+260,WSU_P2_LOADED_BACK_AND_FORTH.wav_split_2,P2_LOADED
+261,WSU_P2_UNLOADED_UP_AND_DOWN copy 2.wav_split_20,P2_UNLOADED
+262,P1_up_and_down copy 2.wav_split_29,P1
+263,WSU_P2_LOADED_up_and_down copy.wav_split_36,P2_LOADED
+264,purrdue_P2_standing copy 2.wav_split_36,P2
+265,purdue_P2_unloaded_up_down copy 2.wav_split_6,P2_UNLOADED
+266,WSU_P2_LOADED_BACK_AND_FORTH copy 2.wav_split_1,P2_LOADED
+267,WSU_P2_LOADED_BACK_AND_FORTH_2 copy 2.wav_split_20,P2_LOADED
+268,WSU_P2_DOWN_UNLOADED copy.wav_split_30,P2_UNLOADED
+269,purdue_P2_unloaded_up_down copy.wav_split_14,P2_UNLOADED
+270,WSU_P2_HIGH_LOADED_DOWN copy 2.wav_split_18,P2_LOADED
+271,train2.wav_split_22,BACKGROUND_NOISE
+272,background_06_02_04.wav_split_9,BACKGROUND_NOISE
+273,WSU_P2_LOADED_BACK_AND_FORTH_2 copy 2.wav_split_18,P2_LOADED
+274,canopy_heavy_wind.wav_split_15,BACKGROUND_NOISE
+275,WSU_P2_HIGH_LOADED_DOWN copy 2.wav_split_20,P2_LOADED
+276,WSU_P2_LOADED_up_and_down copy 2.wav_split_16,P2_LOADED
+277,WSU_P2_UNLOADED_UP_AND_DOWN copy 2.wav_split_18,P2_UNLOADED
+278,P1_up_and_down copy 2.wav_split_11,P1
+279,WSU_P2_DOWN_UNLOADED copy.wav_split_37,P2_UNLOADED
+280,purdue_P2_unloaded_up_down copy.wav_split_13,P2_UNLOADED
+281,train2.wav_split_25,BACKGROUND_NOISE
+282,WSU_P2_LOADED_BACK_AND_FORTH copy 2.wav_split_6,P2_LOADED
+283,WSU_P2_LOADED_BACK_AND_FORTH_2 copy 2.wav_split_27,P2_LOADED
+284,purrdue_P2_standing copy 2.wav_split_31,P2
+285,purdue_P2_unloaded_up_down copy 2.wav_split_1,P2_UNLOADED
+286,WSU_P2_LOADED_up_and_down copy.wav_split_31,P2_LOADED
+287,WSU_P2_UNLOADED_UP_AND_DOWN copy 2.wav_split_27,P2_UNLOADED
+288,purrdue_P2_standing copy.wav_split_34,P2
+289,WSU_P2_LOADED_BACK_AND_FORTH.wav_split_5,P2_LOADED
+290,WSU_P2_LOADED_up_and_down copy 2.wav_split_29,P2_LOADED
+291,WSU_P2_LOADED_BACK_AND_FORTH.wav_split_12,P2_LOADED
+292,P1_up_and_down copy.wav_split_34,P1
+293,purrdue_P2_standing.wav_split_31,P2
+294,WSU_P2_LOADED_BACK_AND_FORTH copy.wav_split_36,P2_LOADED
+295,P1_stationary copy 2.wav_split_26,P1
+296,goo2.wav_split_19,BACKGROUND_NOISE
+297,P1_stationary copy.wav_split_1,P1
+298,WSU_P2_UNLOADED_BACK_AND_FORTH copy 2.wav_split_2,P2_UNLOADED
+299,foo.wav_split_33,BACKGROUND_NOISE
+300,motorcycle.wav_split_7,BACKGROUND_NOISE
+301,WSU_P2_UNLOADED_UP_AND_DOWN copy.wav_split_16,P2_UNLOADED
+302,WSU_P2_LOADED_BACK_AND_FORTH_2 copy.wav_split_20,P2_LOADED
+303,WSU_P2_UNLOADED_UP_AND_DOWN copy 2.wav_split_6,P2_UNLOADED
+304,WSU_P2_HIGH_LOADED_DOWN copy.wav_split_32,P2_LOADED
+305,P1_stationary copy 2.wav_split_19,P1
+306,goo2.wav_split_26,BACKGROUND_NOISE
+307,eric_survey.wav_split_39,BACKGROUND_NOISE
+308,background_06_02_02.wav_split_20,BACKGROUND_NOISE
+309,WSU_P2_UNLOADED_UP_AND_DOWN copy.wav_split_29,P2_UNLOADED
+310,motorcycle.wav_split_38,BACKGROUND_NOISE
+311,WSU_P2_LOADED_BACK_AND_FORTH_2 copy.wav_split_27,P2_LOADED
+312,background_06_02_02.wav_split_18,BACKGROUND_NOISE
+313,WSU_P2_UNLOADED_BACK_AND_FORTH copy 2.wav_split_5,P2_UNLOADED
+314,foo.wav_split_34,BACKGROUND_NOISE
+315,WSU_P2_UNLOADED_UP_AND_DOWN copy.wav_split_11,P2_UNLOADED
+316,P1_stationary copy.wav_split_6,P1
+317,P1_stationary copy 2.wav_split_21,P1
+318,purrdue_P2_standing.wav_split_36,P2
+319,WSU_P2_LOADED_BACK_AND_FORTH copy.wav_split_31,P2_LOADED
+320,purdue_P2_unloaded_up_down copy.wav_split_40,P2_UNLOADED
+321,WSU_P2_LOADED_BACK_AND_FORTH.wav_split_15,P2_LOADED
+322,P1_up_and_down copy.wav_split_33,P1
+323,WSU_P2_LOADED_BACK_AND_FORTH_2 copy.wav_split_18,P2_LOADED
+324,background_06_02_02.wav_split_27,BACKGROUND_NOISE
+325,WSU_P2_DOWN_UNLOADED copy 2.wav_split_9,P2_UNLOADED
+326,canopy_heavy_wind.wav_split_9,BACKGROUND_NOISE
+327,goo2.wav_split_21,BACKGROUND_NOISE
+328,WSU_P2_UNLOADED_UP_AND_DOWN copy 2.wav_split_1,P2_UNLOADED
+329,WSU_P2_HIGH_LOADED_DOWN copy.wav_split_35,P2_LOADED
+330,P1_up_and_down copy 2.wav_split_4,P1
+331,WSU_P2_UNLOADED_UP_AND_DOWN copy.wav_split_27,P2_UNLOADED
+332,WSU_P2_LOADED_BACK_AND_FORTH_2.wav_split_3,P2_LOADED
+333,motorcycle.wav_split_36,BACKGROUND_NOISE
+334,goo2.wav_split_3,BACKGROUND_NOISE
+335,WSU_P2_LOADED_BACK_AND_FORTH_2 copy.wav_split_11,P2_LOADED
+336,train2.wav_split_40,BACKGROUND_NOISE
+337,WSU_P2_LOADED_BACK_AND_FORTH.wav_split_23,P2_LOADED
+338,eric_survey.wav_split_37,BACKGROUND_NOISE
+339,WSU_P2_UNLOADED_UP_AND_DOWN copy 2.wav_split_8,P2_UNLOADED
+340,goo2.wav_split_28,BACKGROUND_NOISE
+341,P1_stationary copy 2.wav_split_17,P1
+342,background_06_02_02.wav_split_11,BACKGROUND_NOISE
+343,WSU_P2_UNLOADED_UP_AND_DOWN copy.wav_split_18,P2_UNLOADED
+344,motorcycle.wav_split_9,BACKGROUND_NOISE
+345,goo2.wav_split_17,BACKGROUND_NOISE
+346,P1_stationary copy 2.wav_split_28,P1
+347,WSU_P2_LOADED_BACK_AND_FORTH copy.wav_split_38,P2_LOADED
+348,WSU_P2_HIGH_LOADED_DOWN.wav_split_33,P2_LOADED
+349,canopy_heavy_wind.wav_split_7,BACKGROUND_NOISE
+350,P1_stationary copy 2.wav_split_10,P1
+351,WSU_P2_LOADED_BACK_AND_FORTH.wav_split_24,P2_LOADED
+352,eric_survey.wav_split_30,BACKGROUND_NOISE
+353,WSU_P2_DOWN_UNLOADED copy 2.wav_split_7,P2_UNLOADED
+354,background_06_02_02.wav_split_29,BACKGROUND_NOISE
+355,WSU_P2_LOADED_BACK_AND_FORTH_2 copy.wav_split_16,P2_LOADED
+356,goo2.wav_split_4,BACKGROUND_NOISE
+357,WSU_P2_LOADED_BACK_AND_FORTH_2.wav_split_4,P2_LOADED
+358,motorcycle.wav_split_31,BACKGROUND_NOISE
+359,P1_up_and_down copy 2.wav_split_3,P1
+360,WSU_P2_UNLOADED_UP_AND_DOWN copy.wav_split_20,P2_UNLOADED
+361,purrdue_P2_standing.wav_split_38,P2
+362,WSU_P2_HIGH_LOADED_DOWN.wav_split_34,P2_LOADED
+363,P1_stationary copy.wav_split_8,P1
+364,goo2.wav_split_10,BACKGROUND_NOISE
+365,background_06_02_02.wav_split_16,BACKGROUND_NOISE
+366,WSU_P2_LOADED_BACK_AND_FORTH_2 copy.wav_split_29,P2_LOADED
+367,WSU_P2_LOADED_up_and_down copy 2.wav_split_17,P2_LOADED
+368,P1_up_and_down copy 2.wav_split_10,P1
+369,WSU_P2_UNLOADED_UP_AND_DOWN copy 2.wav_split_19,P2_UNLOADED
+370,WSU_P2_HIGH_LOADED_DOWN copy 2.wav_split_21,P2_LOADED
+371,background_06_02_04.wav_split_8,BACKGROUND_NOISE
+372,WSU_P2_LOADED_BACK_AND_FORTH_2 copy 2.wav_split_19,P2_LOADED
+373,in_air_iris_far_away.wav_split_1,BACKGROUND_NOISE
+374,canopy_heavy_wind.wav_split_14,BACKGROUND_NOISE
+375,WSU_P2_UNLOADED_UP_AND_DOWN copy 2.wav_split_26,P2_UNLOADED
+376,WSU_P2_LOADED_up_and_down copy.wav_split_30,P2_LOADED
+377,WSU_P2_LOADED_up_and_down copy 2.wav_split_28,P2_LOADED
+378,purrdue_P2_standing copy.wav_split_35,P2
+379,WSU_P2_LOADED_BACK_AND_FORTH.wav_split_4,P2_LOADED
+380,WSU_P2_LOADED_BACK_AND_FORTH copy 2.wav_split_7,P2_LOADED
+381,WSU_P2_LOADED_BACK_AND_FORTH_2 copy 2.wav_split_26,P2_LOADED
+382,WSU_P2_DOWN_UNLOADED copy.wav_split_36,P2_UNLOADED
+383,purdue_P2_unloaded_up_down copy.wav_split_12,P2_UNLOADED
+384,train2.wav_split_24,BACKGROUND_NOISE
+385,purrdue_P2_standing copy 2.wav_split_30,P2
+386,in_air_iris_far_away.wav_split_6,BACKGROUND_NOISE
+387,canopy_heavy_wind.wav_split_13,BACKGROUND_NOISE
+388,WSU_P2_HIGH_LOADED_DOWN copy 2.wav_split_26,P2_LOADED
+389,background_in_air_iris_3.wav_split_38,BACKGROUND_NOISE
+390,P1_up_and_down copy 2.wav_split_17,P1
+391,WSU_P2_LOADED_up_and_down copy 2.wav_split_10,P2_LOADED
+392,purrdue_P2_standing copy 2.wav_split_37,P2
+393,purdue_P2_unloaded_up_down copy 2.wav_split_7,P2_UNLOADED
+394,WSU_P2_DOWN_UNLOADED copy.wav_split_31,P2_UNLOADED
+395,purdue_P2_unloaded_up_down copy.wav_split_15,P2_UNLOADED
+396,train2.wav_split_23,BACKGROUND_NOISE
+397,WSU_P2_HIGH_LOADED_DOWN copy 2.wav_split_19,P2_LOADED
+398,WSU_P2_LOADED_BACK_AND_FORTH.wav_split_40,P2_LOADED
+399,WSU_P2_LOADED_BACK_AND_FORTH_2 copy 2.wav_split_21,P2_LOADED
+400,purrdue_P2_standing copy.wav_split_32,P2
+401,WSU_P2_LOADED_BACK_AND_FORTH.wav_split_3,P2_LOADED
+402,WSU_P2_LOADED_up_and_down copy.wav_split_37,P2_LOADED
+403,P1_up_and_down copy 2.wav_split_28,P1
+404,WSU_P2_UNLOADED_UP_AND_DOWN copy 2.wav_split_21,P2_UNLOADED
+405,canopy_heavy_wind.wav_split_25,BACKGROUND_NOISE
+406,WSU_P2_LOADED_BACK_AND_FORTH_2 copy 2.wav_split_28,P2_LOADED
+407,WSU_P2_LOADED_BACK_AND_FORTH copy 2.wav_split_9,P2_LOADED
+408,WSU_P2_DOWN_UNLOADED copy.wav_split_38,P2_UNLOADED
+409,WSU_P2_HIGH_LOADED_DOWN copy 2.wav_split_10,P2_LOADED
+410,WSU_P2_LOADED_up_and_down copy 2.wav_split_26,P2_LOADED
+411,purdue_P2_unloaded_up_down.wav_split_34,P2_UNLOADED
+412,WSU_P2_UNLOADED_UP_AND_DOWN copy 2.wav_split_28,P2_UNLOADED
+413,train.wav_split_4,BACKGROUND_NOISE
+414,P1_up_and_down copy 2.wav_split_21,P1
+415,train2.wav_split_15,BACKGROUND_NOISE
+416,purdue_P2_unloaded_up_down copy.wav_split_23,P2_UNLOADED
+417,background_06_02_04.wav_split_6,BACKGROUND_NOISE
+418,WSU_P2_LOADED_BACK_AND_FORTH_2 copy 2.wav_split_17,P2_LOADED
+419,background_in_air_iris_3.wav_split_31,BACKGROUND_NOISE
+420,WSU_P2_UNLOADED_UP_AND_DOWN copy 2.wav_split_17,P2_UNLOADED
+421,WSU_P2_LOADED_up_and_down copy 2.wav_split_19,P2_LOADED
+422,P1_up_and_down copy 2.wav_split_26,P1
+423,WSU_P2_LOADED_up_and_down copy.wav_split_39,P2_LOADED
+424,purdue_P2_unloaded_up_down.wav_split_33,P2_UNLOADED
+425,train.wav_split_3,BACKGROUND_NOISE
+426,WSU_P2_LOADED_up_and_down copy 2.wav_split_21,P2_LOADED
+427,WSU_P2_HIGH_LOADED_DOWN copy 2.wav_split_17,P2_LOADED
+428,canopy_heavy_wind.wav_split_22,BACKGROUND_NOISE
+429,purrdue_P2_standing copy 2.wav_split_39,P2
+430,purdue_P2_unloaded_up_down copy 2.wav_split_9,P2_UNLOADED
+431,WSU_P2_UNLOADED_UP_AND_DOWN copy 2.wav_split_10,P2_UNLOADED
+432,background_in_air_iris_3.wav_split_36,BACKGROUND_NOISE
+433,P1_up_and_down copy 2.wav_split_19,P1
+434,WSU_P2_LOADED_BACK_AND_FORTH_2 copy 2.wav_split_10,P2_LOADED
+435,background_06_02_04.wav_split_1,BACKGROUND_NOISE
+436,in_air_iris_far_away.wav_split_8,BACKGROUND_NOISE
+437,train2.wav_split_12,BACKGROUND_NOISE
+438,WSU_P2_HIGH_LOADED_DOWN copy 2.wav_split_28,P2_LOADED
+439,purdue_P2_unloaded_up_down copy.wav_split_24,P2_UNLOADED
+440,goo2.wav_split_5,BACKGROUND_NOISE
+441,WSU_P2_LOADED_BACK_AND_FORTH_2 copy.wav_split_17,P2_LOADED
+442,background_06_02_02.wav_split_28,BACKGROUND_NOISE
+443,P1_up_and_down copy 2.wav_split_2,P1
+444,WSU_P2_UNLOADED_UP_AND_DOWN copy.wav_split_21,P2_UNLOADED
+445,WSU_P2_LOADED_BACK_AND_FORTH_2.wav_split_5,P2_LOADED
+446,motorcycle.wav_split_30,BACKGROUND_NOISE
+447,canopy_heavy_wind.wav_split_6,BACKGROUND_NOISE
+448,P1_stationary copy 2.wav_split_11,P1
+449,WSU_P2_DOWN_UNLOADED copy 2.wav_split_6,P2_UNLOADED
+450,WSU_P2_LOADED_BACK_AND_FORTH.wav_split_25,P2_LOADED
+451,eric_survey.wav_split_31,BACKGROUND_NOISE
+452,WSU_P2_LOADED_BACK_AND_FORTH_2 copy.wav_split_28,P2_LOADED
+453,background_06_02_02.wav_split_17,BACKGROUND_NOISE
+454,purrdue_P2_standing.wav_split_39,P2
+455,WSU_P2_HIGH_LOADED_DOWN.wav_split_35,P2_LOADED
+456,goo2.wav_split_11,BACKGROUND_NOISE
+457,P1_stationary copy.wav_split_9,P1
+458,WSU_P2_LOADED_BACK_AND_FORTH.wav_split_22,P2_LOADED
+459,eric_survey.wav_split_36,BACKGROUND_NOISE
+460,WSU_P2_DOWN_UNLOADED copy 2.wav_split_1,P2_UNLOADED
+461,canopy_heavy_wind.wav_split_1,BACKGROUND_NOISE
+462,P1_stationary copy 2.wav_split_16,P1
+463,goo2.wav_split_29,BACKGROUND_NOISE
+464,WSU_P2_UNLOADED_UP_AND_DOWN copy 2.wav_split_9,P2_UNLOADED
+465,WSU_P2_LOADED_BACK_AND_FORTH_2.wav_split_2,P2_LOADED
+466,motorcycle.wav_split_37,BACKGROUND_NOISE
+467,P1_up_and_down copy 2.wav_split_5,P1
+468,WSU_P2_UNLOADED_UP_AND_DOWN copy.wav_split_26,P2_UNLOADED
+469,WSU_P2_LOADED_BACK_AND_FORTH_2 copy.wav_split_10,P2_LOADED
+470,goo2.wav_split_2,BACKGROUND_NOISE
+471,P1_stationary copy 2.wav_split_29,P1
+472,goo2.wav_split_16,BACKGROUND_NOISE
+473,WSU_P2_LOADED_BACK_AND_FORTH copy.wav_split_39,P2_LOADED
+474,WSU_P2_HIGH_LOADED_DOWN.wav_split_32,P2_LOADED
+475,background_06_02_02.wav_split_10,BACKGROUND_NOISE
+476,WSU_P2_UNLOADED_UP_AND_DOWN copy.wav_split_19,P2_UNLOADED
+477,motorcycle.wav_split_8,BACKGROUND_NOISE
+478,P1_stationary copy 2.wav_split_20,P1
+479,P1_stationary copy.wav_split_7,P1
+480,WSU_P2_LOADED_BACK_AND_FORTH.wav_split_14,P2_LOADED
+481,P1_up_and_down copy.wav_split_32,P1
+482,WSU_P2_LOADED_BACK_AND_FORTH copy.wav_split_30,P2_LOADED
+483,purrdue_P2_standing.wav_split_37,P2
+484,background_06_02_02.wav_split_19,BACKGROUND_NOISE
+485,WSU_P2_LOADED_BACK_AND_FORTH_2 copy.wav_split_26,P2_LOADED
+486,motorcycle.wav_split_1,BACKGROUND_NOISE
+487,foo.wav_split_35,BACKGROUND_NOISE
+488,WSU_P2_UNLOADED_UP_AND_DOWN copy.wav_split_10,P2_UNLOADED
+489,WSU_P2_UNLOADED_BACK_AND_FORTH copy 2.wav_split_4,P2_UNLOADED
+490,WSU_P2_DOWN_UNLOADED copy 2.wav_split_8,P2_UNLOADED
+491,WSU_P2_HIGH_LOADED_DOWN copy.wav_split_34,P2_LOADED
+492,canopy_heavy_wind.wav_split_8,BACKGROUND_NOISE
+493,goo2.wav_split_20,BACKGROUND_NOISE
+494,background_06_02_02.wav_split_26,BACKGROUND_NOISE
+495,WSU_P2_LOADED_BACK_AND_FORTH_2 copy.wav_split_19,P2_LOADED
+496,motorcycle.wav_split_6,BACKGROUND_NOISE
+497,foo.wav_split_32,BACKGROUND_NOISE
+498,WSU_P2_UNLOADED_UP_AND_DOWN copy.wav_split_17,P2_UNLOADED
+499,WSU_P2_UNLOADED_BACK_AND_FORTH copy 2.wav_split_3,P2_UNLOADED
+500,WSU_P2_LOADED_BACK_AND_FORTH_2 copy.wav_split_21,P2_LOADED
+501,WSU_P2_LOADED_BACK_AND_FORTH copy.wav_split_37,P2_LOADED
+502,purrdue_P2_standing.wav_split_30,P2
+503,WSU_P2_LOADED_BACK_AND_FORTH.wav_split_13,P2_LOADED
+504,P1_up_and_down copy.wav_split_35,P1
+505,goo2.wav_split_18,BACKGROUND_NOISE
+506,P1_stationary copy 2.wav_split_27,P1
+507,background_06_02_02.wav_split_21,BACKGROUND_NOISE
+508,motorcycle.wav_split_39,BACKGROUND_NOISE
+509,WSU_P2_UNLOADED_UP_AND_DOWN copy.wav_split_28,P2_UNLOADED
+510,goo2.wav_split_27,BACKGROUND_NOISE
+511,P1_stationary copy 2.wav_split_18,P1
+512,WSU_P2_HIGH_LOADED_DOWN copy.wav_split_33,P2_LOADED
+513,WSU_P2_UNLOADED_UP_AND_DOWN copy 2.wav_split_7,P2_UNLOADED
+514,canopy_heavy_wind.wav_split_40,BACKGROUND_NOISE
+515,eric_survey.wav_split_38,BACKGROUND_NOISE
+516,background_in_air_iris_3.wav_split_6,BACKGROUND_NOISE
+517,train2.wav_split_4,BACKGROUND_NOISE
+518,WSU_P2_HIGH_LOADED_DOWN.wav_split_21,P2_LOADED
+519,P1_up_and_down copy.wav_split_28,P1
+520,WSU_P2_HIGH_LOADED_DOWN copy.wav_split_11,P2_LOADED
+521,motorcycle.wav_split_24,BACKGROUND_NOISE
+522,WSU_P2_DOWN_UNLOADED copy.wav_split_5,P2_UNLOADED
+523,WSU_P2_UNLOADED_UP_AND_DOWN copy.wav_split_35,P2_UNLOADED
+524,foo.wav_split_10,BACKGROUND_NOISE
+525,purrdue_P2_standing copy 2.wav_split_3,P2
+526,eric_survey.wav_split_5,BACKGROUND_NOISE
+527,WSU_P2_LOADED_BACK_AND_FORTH.wav_split_31,P2_LOADED
+528,eric_survey.wav_split_25,BACKGROUND_NOISE
+529,P1_up_and_down copy.wav_split_17,P1
+530,WSU_P2_LOADED_BACK_AND_FORTH copy.wav_split_15,P2_LOADED
+531,purrdue_P2_standing.wav_split_12,P2
+532,WSU_P2_DOWN_UNLOADED copy.wav_split_40,P2_UNLOADED
+533,WSU_P2_HIGH_LOADED_DOWN copy.wav_split_16,P2_LOADED
+534,WSU_P2_UNLOADED_UP_AND_DOWN copy.wav_split_7,P2_UNLOADED
+535,WSU_P2_HIGH_LOADED_DOWN.wav_split_26,P2_LOADED
+536,train2.wav_split_3,BACKGROUND_NOISE
+537,background_in_air_iris_3.wav_split_1,BACKGROUND_NOISE
+538,foo.wav_split_28,BACKGROUND_NOISE
+539,WSU_P2_LOADED_BACK_AND_FORTH copy.wav_split_12,P2_LOADED
+540,purrdue_P2_standing.wav_split_15,P2
+541,WSU_P2_HIGH_LOADED_DOWN.wav_split_19,P2_LOADED
+542,WSU_P2_LOADED_BACK_AND_FORTH.wav_split_36,P2_LOADED
+543,eric_survey.wav_split_22,BACKGROUND_NOISE
+544,P1_up_and_down copy.wav_split_10,P1
+545,WSU_P2_HIGH_LOADED_DOWN copy.wav_split_29,P2_LOADED
+546,purrdue_P2_standing copy 2.wav_split_4,P2
+547,eric_survey.wav_split_2,BACKGROUND_NOISE
+548,WSU_P2_UNLOADED_UP_AND_DOWN copy.wav_split_32,P2_UNLOADED
+549,foo.wav_split_17,BACKGROUND_NOISE
+550,motorcycle.wav_split_23,BACKGROUND_NOISE
+551,WSU_P2_DOWN_UNLOADED copy.wav_split_2,P2_UNLOADED
+552,P1_up_and_down copy.wav_split_19,P1
+553,WSU_P2_HIGH_LOADED_DOWN.wav_split_10,P2_LOADED
+554,goo2.wav_split_34,BACKGROUND_NOISE
+555,WSU_P2_HIGH_LOADED_DOWN copy.wav_split_20,P2_LOADED
+556,purrdue_P2_standing.wav_split_4,P2
+557,background_06_02_02.wav_split_32,BACKGROUND_NOISE
+558,P1_stationary copy 2.wav_split_34,P1
+559,background_eric_doing_stuff.wav_split_2,BACKGROUND_NOISE
+560,WSU_P2_LOADED_BACK_AND_FORTH copy.wav_split_24,P2_LOADED
+561,purrdue_P2_standing.wav_split_23,P2
+562,P1_up_and_down copy.wav_split_26,P1
+563,eric_survey.wav_split_14,BACKGROUND_NOISE
+564,WSU_P2_LOADED_BACK_AND_FORTH_2 copy.wav_split_32,P2_LOADED
+565,foo.wav_split_21,BACKGROUND_NOISE
+566,background_in_air_iris_3.wav_split_8,BACKGROUND_NOISE
+567,motorcycle.wav_split_15,BACKGROUND_NOISE
+568,background_06_02_02.wav_split_35,BACKGROUND_NOISE
+569,foo.wav_split_19,BACKGROUND_NOISE
+570,WSU_P2_HIGH_LOADED_DOWN copy.wav_split_27,P2_LOADED
+571,purrdue_P2_standing.wav_split_3,P2
+572,goo2.wav_split_33,BACKGROUND_NOISE
+573,WSU_P2_HIGH_LOADED_DOWN.wav_split_17,P2_LOADED
+574,WSU_P2_LOADED_BACK_AND_FORTH.wav_split_38,P2_LOADED
+575,motorcycle.wav_split_12,BACKGROUND_NOISE
+576,background_in_air_iris_3.wav_split_40,BACKGROUND_NOISE
+577,foo.wav_split_26,BACKGROUND_NOISE
+578,WSU_P2_LOADED_BACK_AND_FORTH_2 copy.wav_split_35,P2_LOADED
+579,P1_up_and_down copy.wav_split_21,P1
+580,eric_survey.wav_split_13,BACKGROUND_NOISE
+581,WSU_P2_HIGH_LOADED_DOWN.wav_split_28,P2_LOADED
+582,WSU_P2_LOADED_BACK_AND_FORTH copy.wav_split_23,P2_LOADED
+583,purrdue_P2_standing.wav_split_24,P2
+584,P1_stationary copy 2.wav_split_33,P1
+585,background_eric_doing_stuff.wav_split_5,BACKGROUND_NOISE
+586,WSU_P2_HIGH_LOADED_DOWN copy.wav_split_18,P2_LOADED
+587,WSU_P2_UNLOADED_UP_AND_DOWN copy.wav_split_9,P2_UNLOADED
+588,background_in_air_iris_3.wav_split_14,BACKGROUND_NOISE
+589,WSU_P2_LOADED_up_and_down copy.wav_split_24,P2_LOADED
+590,WSU_P2_UNLOADED_UP_AND_DOWN copy 2.wav_split_32,P2_UNLOADED
+591,purrdue_P2_standing copy.wav_split_21,P2
+592,train2.wav_split_30,BACKGROUND_NOISE
+593,gator.wav_split_9,BACKGROUND_NOISE
+594,WSU_P2_DOWN_UNLOADED copy.wav_split_22,P2_UNLOADED
+595,WSU_P2_LOADED_BACK_AND_FORTH_2 copy 2.wav_split_32,P2_LOADED
+596,P1_up_and_down copy.wav_split_9,P1
+597,P1_stationary copy 2.wav_split_3,P1
+598,purrdue_P2_standing copy 2.wav_split_24,P2
+599,purdue_P2_unloaded_up_down.wav_split_11,P2_UNLOADED
+600,purdue_P2_unloaded_up_down copy.wav_split_39,P2_UNLOADED
+601,WSU_P2_HIGH_LOADED_DOWN copy 2.wav_split_35,P2_LOADED
+602,P1_stationary copy 2.wav_split_4,P1
+603,purrdue_P2_standing copy 2.wav_split_23,P2
+604,eric_survey.wav_split_40,BACKGROUND_NOISE
+605,WSU_P2_LOADED_BACK_AND_FORTH_2 copy 2.wav_split_35,P2_LOADED
+606,canopy_heavy_wind.wav_split_38,BACKGROUND_NOISE
+607,train2.wav_split_37,BACKGROUND_NOISE
+608,WSU_P2_DOWN_UNLOADED copy.wav_split_25,P2_UNLOADED
+609,purrdue_P2_standing copy.wav_split_26,P2
+610,WSU_P2_UNLOADED_UP_AND_DOWN copy 2.wav_split_35,P2_UNLOADED
+611,purdue_P2_unloaded_up_down.wav_split_29,P2_UNLOADED
+612,background_in_air_iris_3.wav_split_13,BACKGROUND_NOISE
+613,WSU_P2_LOADED_up_and_down copy.wav_split_23,P2_LOADED
+614,WSU_P2_HIGH_LOADED_DOWN copy 2.wav_split_32,P2_LOADED
+615,purdue_P2_unloaded_up_down.wav_split_16,P2_UNLOADED
+616,purrdue_P2_standing copy.wav_split_19,P2
+617,purdue_P2_unloaded_up_down copy.wav_split_37,P2_UNLOADED
+618,WSU_P2_DOWN_UNLOADED copy.wav_split_13,P2_UNLOADED
+619,WSU_P2_LOADED_BACK_AND_FORTH_2 copy.wav_split_5,P2_LOADED
+620,purrdue_P2_standing copy 2.wav_split_15,P2
+621,WSU_P2_LOADED_up_and_down copy.wav_split_15,P2_LOADED
+622,background_06_02_03.wav_split_2,BACKGROUND_NOISE
+623,background_in_air_iris_3.wav_split_25,BACKGROUND_NOISE
+624,purrdue_P2_standing copy.wav_split_10,P2
+625,P1_up_and_down copy.wav_split_7,P1
+626,gator.wav_split_7,BACKGROUND_NOISE
+627,WSU_P2_HIGH_LOADED_DOWN copy.wav_split_2,P2_LOADED
+628,canopy_heavy_wind.wav_split_31,BACKGROUND_NOISE
+629,WSU_P2_LOADED_up_and_down copy 2.wav_split_32,P2_LOADED
+630,P1_up_and_down copy 2.wav_split_35,P1
+631,purdue_P2_unloaded_up_down.wav_split_20,P2_UNLOADED
+632,purrdue_P2_standing copy.wav_split_17,P2
+633,WSU_P2_LOADED_up_and_down copy.wav_split_12,P2_LOADED
+634,background_06_02_03.wav_split_5,BACKGROUND_NOISE
+635,background_in_air_iris_3.wav_split_22,BACKGROUND_NOISE
+636,purdue_P2_unloaded_up_down.wav_split_18,P2_UNLOADED
+637,purrdue_P2_standing copy 2.wav_split_12,P2
+638,WSU_P2_LOADED_BACK_AND_FORTH_2 copy.wav_split_2,P2_LOADED
+639,purdue_P2_unloaded_up_down copy.wav_split_30,P2_UNLOADED
+640,WSU_P2_DOWN_UNLOADED copy.wav_split_14,P2_UNLOADED
+641,purdue_P2_unloaded_up_down.wav_split_27,P2_UNLOADED
+642,P1_up_and_down copy 2.wav_split_32,P1
+643,WSU_P2_LOADED_up_and_down copy 2.wav_split_35,P2_LOADED
+644,purrdue_P2_standing copy.wav_split_28,P2
+645,WSU_P2_HIGH_LOADED_DOWN copy.wav_split_5,P2_LOADED
+646,canopy_heavy_wind.wav_split_36,BACKGROUND_NOISE
+647,train2.wav_split_39,BACKGROUND_NOISE
+648,goo2.wav_split_32,BACKGROUND_NOISE
+649,purrdue_P2_standing.wav_split_2,P2
+650,WSU_P2_HIGH_LOADED_DOWN copy.wav_split_26,P2_LOADED
+651,WSU_P2_LOADED_BACK_AND_FORTH.wav_split_39,P2_LOADED
+652,WSU_P2_HIGH_LOADED_DOWN.wav_split_16,P2_LOADED
+653,background_06_02_02.wav_split_34,BACKGROUND_NOISE
+654,foo.wav_split_18,BACKGROUND_NOISE
+655,WSU_P2_HIGH_LOADED_DOWN.wav_split_29,P2_LOADED
+656,purrdue_P2_standing.wav_split_25,P2
+657,WSU_P2_LOADED_BACK_AND_FORTH copy.wav_split_22,P2_LOADED
+658,P1_up_and_down copy.wav_split_20,P1
+659,eric_survey.wav_split_12,BACKGROUND_NOISE
+660,WSU_P2_HIGH_LOADED_DOWN copy.wav_split_19,P2_LOADED
+661,WSU_P2_UNLOADED_UP_AND_DOWN copy.wav_split_8,P2_UNLOADED
+662,background_eric_doing_stuff.wav_split_4,BACKGROUND_NOISE
+663,P1_stationary copy 2.wav_split_32,P1
+664,foo.wav_split_27,BACKGROUND_NOISE
+665,motorcycle.wav_split_13,BACKGROUND_NOISE
+666,WSU_P2_LOADED_BACK_AND_FORTH_2 copy.wav_split_34,P2_LOADED
+667,background_06_02_02.wav_split_33,BACKGROUND_NOISE
+668,WSU_P2_HIGH_LOADED_DOWN.wav_split_11,P2_LOADED
+669,P1_up_and_down copy.wav_split_18,P1
+670,purrdue_P2_standing.wav_split_5,P2
+671,WSU_P2_HIGH_LOADED_DOWN copy.wav_split_21,P2_LOADED
+672,goo2.wav_split_35,BACKGROUND_NOISE
+673,WSU_P2_LOADED_BACK_AND_FORTH_2 copy.wav_split_33,P2_LOADED
+674,background_in_air_iris_3.wav_split_9,BACKGROUND_NOISE
+675,motorcycle.wav_split_14,BACKGROUND_NOISE
+676,foo.wav_split_20,BACKGROUND_NOISE
+677,background_eric_doing_stuff.wav_split_3,BACKGROUND_NOISE
+678,P1_stationary copy 2.wav_split_35,P1
+679,P1_up_and_down copy.wav_split_27,P1
+680,eric_survey.wav_split_15,BACKGROUND_NOISE
+681,purrdue_P2_standing.wav_split_22,P2
+682,WSU_P2_LOADED_BACK_AND_FORTH copy.wav_split_25,P2_LOADED
+683,train2.wav_split_2,BACKGROUND_NOISE
+684,foo.wav_split_29,BACKGROUND_NOISE
+685,WSU_P2_HIGH_LOADED_DOWN copy.wav_split_17,P2_LOADED
+686,WSU_P2_UNLOADED_UP_AND_DOWN copy.wav_split_6,P2_UNLOADED
+687,WSU_P2_HIGH_LOADED_DOWN.wav_split_27,P2_LOADED
+688,WSU_P2_DOWN_UNLOADED copy.wav_split_3,P2_UNLOADED
+689,motorcycle.wav_split_22,BACKGROUND_NOISE
+690,WSU_P2_UNLOADED_UP_AND_DOWN copy.wav_split_33,P2_UNLOADED
+691,foo.wav_split_16,BACKGROUND_NOISE
+692,WSU_P2_LOADED_up_and_down copy.wav_split_40,P2_LOADED
+693,WSU_P2_LOADED_BACK_AND_FORTH.wav_split_37,P2_LOADED
+694,eric_survey.wav_split_23,BACKGROUND_NOISE
+695,P1_up_and_down copy.wav_split_11,P1
+696,purrdue_P2_standing.wav_split_14,P2
+697,WSU_P2_LOADED_BACK_AND_FORTH copy.wav_split_13,P2_LOADED
+698,WSU_P2_HIGH_LOADED_DOWN.wav_split_18,P2_LOADED
+699,purrdue_P2_standing copy 2.wav_split_5,P2
+700,eric_survey.wav_split_3,BACKGROUND_NOISE
+701,purrdue_P2_standing copy 2.wav_split_40,P2
+702,WSU_P2_HIGH_LOADED_DOWN copy.wav_split_28,P2_LOADED
+703,P1_up_and_down copy.wav_split_29,P1
+704,WSU_P2_HIGH_LOADED_DOWN.wav_split_20,P2_LOADED
+705,WSU_P2_HIGH_LOADED_DOWN copy.wav_split_10,P2_LOADED
+706,WSU_P2_UNLOADED_UP_AND_DOWN copy.wav_split_1,P2_UNLOADED
+707,background_in_air_iris_3.wav_split_7,BACKGROUND_NOISE
+708,train2.wav_split_5,BACKGROUND_NOISE
+709,purrdue_P2_standing copy 2.wav_split_2,P2
+710,eric_survey.wav_split_4,BACKGROUND_NOISE
+711,purrdue_P2_standing.wav_split_13,P2
+712,WSU_P2_LOADED_BACK_AND_FORTH copy.wav_split_14,P2_LOADED
+713,WSU_P2_LOADED_BACK_AND_FORTH.wav_split_30,P2_LOADED
+714,eric_survey.wav_split_24,BACKGROUND_NOISE
+715,P1_up_and_down copy.wav_split_16,P1
+716,WSU_P2_UNLOADED_UP_AND_DOWN copy.wav_split_34,P2_UNLOADED
+717,foo.wav_split_11,BACKGROUND_NOISE
+718,WSU_P2_DOWN_UNLOADED copy.wav_split_4,P2_UNLOADED
+719,motorcycle.wav_split_25,BACKGROUND_NOISE
+720,WSU_P2_LOADED_BACK_AND_FORTH_2 copy.wav_split_3,P2_LOADED
+721,purrdue_P2_standing copy 2.wav_split_13,P2
+722,purdue_P2_unloaded_up_down copy.wav_split_31,P2_UNLOADED
+723,WSU_P2_DOWN_UNLOADED copy.wav_split_15,P2_UNLOADED
+724,WSU_P2_LOADED_BACK_AND_FORTH copy.wav_split_40,P2_LOADED
+725,purrdue_P2_standing copy.wav_split_16,P2
+726,purdue_P2_unloaded_up_down.wav_split_19,P2_UNLOADED
+727,WSU_P2_LOADED_up_and_down copy.wav_split_13,P2_LOADED
+728,background_in_air_iris_3.wav_split_23,BACKGROUND_NOISE
+729,background_06_02_03.wav_split_4,BACKGROUND_NOISE
+730,train2.wav_split_38,BACKGROUND_NOISE
+731,gator.wav_split_1,BACKGROUND_NOISE
+732,WSU_P2_HIGH_LOADED_DOWN copy.wav_split_4,P2_LOADED
+733,canopy_heavy_wind.wav_split_37,BACKGROUND_NOISE
+734,P1_up_and_down copy.wav_split_1,P1
+735,P1_up_and_down copy 2.wav_split_33,P1
+736,purdue_P2_unloaded_up_down.wav_split_26,P2_UNLOADED
+737,purrdue_P2_standing copy.wav_split_29,P2
+738,WSU_P2_LOADED_up_and_down copy 2.wav_split_34,P2_LOADED
+739,WSU_P2_LOADED_up_and_down copy.wav_split_14,P2_LOADED
+740,background_in_air_iris_3.wav_split_24,BACKGROUND_NOISE
+741,background_06_02_03.wav_split_3,BACKGROUND_NOISE
+742,purrdue_P2_standing copy.wav_split_11,P2
+743,purdue_P2_unloaded_up_down copy.wav_split_36,P2_UNLOADED
+744,WSU_P2_DOWN_UNLOADED copy.wav_split_12,P2_UNLOADED
+745,purrdue_P2_standing.wav_split_40,P2
+746,purrdue_P2_standing copy 2.wav_split_14,P2
+747,WSU_P2_LOADED_BACK_AND_FORTH_2 copy.wav_split_4,P2_LOADED
+748,WSU_P2_LOADED_up_and_down copy 2.wav_split_33,P2_LOADED
+749,purdue_P2_unloaded_up_down.wav_split_21,P2_UNLOADED
+750,P1_up_and_down copy 2.wav_split_34,P1
+751,P1_up_and_down copy.wav_split_6,P1
+752,WSU_P2_HIGH_LOADED_DOWN copy.wav_split_3,P2_LOADED
+753,canopy_heavy_wind.wav_split_30,BACKGROUND_NOISE
+754,gator.wav_split_6,BACKGROUND_NOISE
+755,purrdue_P2_standing copy.wav_split_27,P2
+756,background_in_air_iris_3.wav_split_12,BACKGROUND_NOISE
+757,WSU_P2_LOADED_up_and_down copy.wav_split_22,P2_LOADED
+758,motorcycle.wav_split_40,BACKGROUND_NOISE
+759,WSU_P2_UNLOADED_UP_AND_DOWN copy 2.wav_split_34,P2_UNLOADED
+760,purdue_P2_unloaded_up_down.wav_split_28,P2_UNLOADED
+761,P1_stationary copy 2.wav_split_5,P1
+762,purrdue_P2_standing copy 2.wav_split_22,P2
+763,train2.wav_split_36,BACKGROUND_NOISE
+764,WSU_P2_DOWN_UNLOADED copy.wav_split_24,P2_UNLOADED
+765,WSU_P2_LOADED_BACK_AND_FORTH_2 copy 2.wav_split_34,P2_LOADED
+766,canopy_heavy_wind.wav_split_39,BACKGROUND_NOISE
+767,purdue_P2_unloaded_up_down.wav_split_17,P2_UNLOADED
+768,purrdue_P2_standing copy.wav_split_18,P2
+769,WSU_P2_HIGH_LOADED_DOWN copy 2.wav_split_33,P2_LOADED
+770,WSU_P2_LOADED_BACK_AND_FORTH_2 copy 2.wav_split_33,P2_LOADED
+771,gator.wav_split_8,BACKGROUND_NOISE
+772,train2.wav_split_31,BACKGROUND_NOISE
+773,WSU_P2_DOWN_UNLOADED copy.wav_split_23,P2_UNLOADED
+774,P1_stationary copy 2.wav_split_2,P1
+775,P1_up_and_down copy.wav_split_8,P1
+776,purrdue_P2_standing copy 2.wav_split_25,P2
+777,WSU_P2_UNLOADED_UP_AND_DOWN copy 2.wav_split_33,P2_UNLOADED
+778,background_in_air_iris_3.wav_split_15,BACKGROUND_NOISE
+779,WSU_P2_LOADED_up_and_down copy.wav_split_25,P2_LOADED
+780,purrdue_P2_standing copy.wav_split_20,P2
+781,purdue_P2_unloaded_up_down copy.wav_split_38,P2_UNLOADED
+782,WSU_P2_HIGH_LOADED_DOWN copy 2.wav_split_34,P2_LOADED
+783,purdue_P2_unloaded_up_down.wav_split_10,P2_UNLOADED
+784,WSU_P2_DOWN_UNLOADED copy 2.wav_split_18,P2_UNLOADED
+785,P1_up_and_down.wav_split_2,P1
+786,WSU_P2_LOADED_BACK_AND_FORTH copy 2.wav_split_29,P2_LOADED
+787,in_air_iris_over_home_base.wav_split_30,BACKGROUND_NOISE
+788,WSU_P2_UNLOADED_BACK_AND_FORTH copy 2.wav_split_11,P2_UNLOADED
+789,WSU_P2_DOWN_UNLOADED copy 2.wav_split_27,P2_UNLOADED
+790,WSU_P2_LOADED_BACK_AND_FORTH_2.wav_split_20,P2_LOADED
+791,background_in_air_iris_2.wav_split_13,BACKGROUND_NOISE
+792,WSU_P2_LOADED_BACK_AND_FORTH copy 2.wav_split_16,P2_LOADED
+793,in_air_iris_far_away.wav_split_40,BACKGROUND_NOISE
+794,WSU_P2_UNLOADED_BACK_AND_FORTH.wav_split_30,P2_UNLOADED
+795,WSU_P2_LOADED_BACK_AND_FORTH copy.wav_split_4,P2_LOADED
+796,WSU_P2_LOADED_BACK_AND_FORTH_2.wav_split_18,P2_LOADED
+797,purdue_P2_unloaded_up_down copy 2.wav_split_39,P2_UNLOADED
+798,P1_up_and_down.wav_split_5,P1
+799,WSU_P2_UNLOADED_BACK_AND_FORTH copy 2.wav_split_29,P2_UNLOADED
+800,WSU_P2_LOADED_BACK_AND_FORTH copy.wav_split_3,P2_LOADED
+801,WSU_P2_UNLOADED_BACK_AND_FORTH.wav_split_37,P2_UNLOADED
+802,WSU_P2_LOADED_BACK_AND_FORTH copy 2.wav_split_11,P2_LOADED
+803,background_in_air_iris_2.wav_split_14,BACKGROUND_NOISE
+804,WSU_P2_LOADED_BACK_AND_FORTH_2.wav_split_27,P2_LOADED
+805,WSU_P2_UNLOADED_BACK_AND_FORTH copy 2.wav_split_16,P2_UNLOADED
+806,WSU_P2_DOWN_UNLOADED copy 2.wav_split_20,P2_UNLOADED
+807,WSU_P2_HIGH_LOADED_DOWN.wav_split_7,P2_LOADED
+808,in_air_iris_over_home_base.wav_split_37,BACKGROUND_NOISE
+809,canopy_up_01.wav_split_32,BACKGROUND_NOISE
+810,WSU_P2_LOADED_BACK_AND_FORTH copy 2.wav_split_18,P2_LOADED
+811,WSU_P2_UNLOADED_BACK_AND_FORTH copy.wav_split_4,P2_UNLOADED
+812,WSU_P2_DOWN_UNLOADED copy 2.wav_split_29,P2_UNLOADED
+813,WSU_P2_LOADED_BACK_AND_FORTH copy 2.wav_split_27,P2_LOADED
+814,background_in_air_iris_2.wav_split_22,BACKGROUND_NOISE
+815,WSU_P2_LOADED_BACK_AND_FORTH_2.wav_split_11,P2_LOADED
+816,purdue_P2_unloaded_up_down copy 2.wav_split_30,P2_UNLOADED
+817,background_in_air_iris_2.wav_split_3,BACKGROUND_NOISE
+818,WSU_P2_DOWN_UNLOADED copy 2.wav_split_16,P2_UNLOADED
+819,WSU_P2_UNLOADED_BACK_AND_FORTH copy 2.wav_split_20,P2_UNLOADED
+820,background_eric_doing_stuff.wav_split_32,BACKGROUND_NOISE
+821,WSU_P2_UNLOADED_BACK_AND_FORTH copy 2.wav_split_18,P2_UNLOADED
+822,WSU_P2_HIGH_LOADED_DOWN.wav_split_9,P2_LOADED
+823,in_air_iris_over_home_base.wav_split_39,BACKGROUND_NOISE
+824,WSU_P2_UNLOADED_BACK_AND_FORTH copy.wav_split_3,P2_UNLOADED
+825,WSU_P2_LOADED_BACK_AND_FORTH_2.wav_split_29,P2_LOADED
+826,canopy_up_01.wav_split_35,BACKGROUND_NOISE
+827,WSU_P2_UNLOADED_BACK_AND_FORTH.wav_split_39,P2_UNLOADED
+828,background_eric_doing_stuff.wav_split_35,BACKGROUND_NOISE
+829,background_in_air_iris_2.wav_split_4,BACKGROUND_NOISE
+830,WSU_P2_DOWN_UNLOADED copy 2.wav_split_11,P2_UNLOADED
+831,WSU_P2_UNLOADED_BACK_AND_FORTH copy 2.wav_split_27,P2_UNLOADED
+832,purdue_P2_unloaded_up_down copy 2.wav_split_37,P2_UNLOADED
+833,WSU_P2_LOADED_BACK_AND_FORTH_2.wav_split_16,P2_LOADED
+834,background_in_air_iris_2.wav_split_25,BACKGROUND_NOISE
+835,WSU_P2_LOADED_BACK_AND_FORTH copy 2.wav_split_20,P2_LOADED
+836,gator.wav_split_17,BACKGROUND_NOISE
+837,background_in_air_iris.wav_split_5,BACKGROUND_NOISE
+838,WSU_P2_LOADED_up_and_down.wav_split_18,P2_LOADED
+839,P1_up_and_down.wav_split_21,P1
+840,P1_stationary copy.wav_split_11,P1
+841,background_in_air_iris.wav_split_17,BACKGROUND_NOISE
+842,WSU_P2_UNLOADED_BACK_AND_FORTH copy.wav_split_23,P2_UNLOADED
+843,in_air_iris_far_away.wav_split_22,BACKGROUND_NOISE
+844,background_06_02_02.wav_split_7,BACKGROUND_NOISE
+845,background_in_air_iris.wav_split_28,BACKGROUND_NOISE
+846,WSU_P2_LOADED_up_and_down.wav_split_27,P2_LOADED
+847,WSU_P2_UNLOADED_UP_AND_DOWN.wav_split_20,P2_UNLOADED
+848,P1_stationary.wav_split_20,P1
+849,gator.wav_split_28,BACKGROUND_NOISE
+850,purdue_P2_unloaded_up_down.wav_split_2,P2_UNLOADED
+851,background_06_02_01.wav_split_15,BACKGROUND_NOISE
+852,train.wav_split_35,BACKGROUND_NOISE
+853,WSU_P2_DOWN_UNLOADED.wav_split_7,P2_UNLOADED
+854,WSU_P2_UNLOADED_BACK_AND_FORTH copy.wav_split_24,P2_UNLOADED
+855,in_air_iris_far_away.wav_split_25,BACKGROUND_NOISE
+856,WSU_P2_UNLOADED_BACK_AND_FORTH.wav_split_8,P2_UNLOADED
+857,WSU_P2_UNLOADED_UP_AND_DOWN.wav_split_18,P2_UNLOADED
+858,P1_stationary.wav_split_18,P1
+859,P1_up_and_down.wav_split_26,P1
+860,P1_stationary copy.wav_split_16,P1
+861,background_in_air_iris.wav_split_10,BACKGROUND_NOISE
+862,background_in_air_iris.wav_split_2,BACKGROUND_NOISE
+863,gator.wav_split_10,BACKGROUND_NOISE
+864,background_06_02_01.wav_split_12,BACKGROUND_NOISE
+865,purdue_P2_unloaded_up_down.wav_split_5,P2_UNLOADED
+866,train.wav_split_32,BACKGROUND_NOISE
+867,P1_up_and_down.wav_split_19,P1
+868,P1_stationary copy.wav_split_29,P1
+869,WSU_P2_LOADED_up_and_down.wav_split_20,P2_LOADED
+870,WSU_P2_UNLOADED_UP_AND_DOWN.wav_split_27,P2_UNLOADED
+871,P1_stationary.wav_split_27,P1
+872,P1_stationary.wav_split_5,P1
+873,WSU_P2_DOWN_UNLOADED.wav_split_9,P2_UNLOADED
+874,background_in_air_iris_2.wav_split_40,BACKGROUND_NOISE
+875,WSU_P2_UNLOADED_BACK_AND_FORTH copy.wav_split_12,P2_UNLOADED
+876,in_air_iris_far_away.wav_split_13,BACKGROUND_NOISE
+877,gator.wav_split_26,BACKGROUND_NOISE
+878,background_06_02_02.wav_split_9,BACKGROUND_NOISE
+879,P1_up_and_down.wav_split_10,P1
+880,background_in_air_iris.wav_split_26,BACKGROUND_NOISE
+881,P1_stationary copy.wav_split_20,P1
+882,WSU_P2_LOADED_up_and_down.wav_split_29,P2_LOADED
+883,WSU_P2_UNLOADED_BACK_AND_FORTH.wav_split_1,P2_UNLOADED
+884,background_06_02_01.wav_split_24,BACKGROUND_NOISE
+885,background_06_02_03.wav_split_35,BACKGROUND_NOISE
+886,WSU_P2_DOWN_UNLOADED.wav_split_33,P2_UNLOADED
+887,background_06_02_04.wav_split_32,BACKGROUND_NOISE
+888,WSU_P2_LOADED_up_and_down.wav_split_16,P2_LOADED
+889,WSU_P2_UNLOADED_UP_AND_DOWN.wav_split_11,P2_UNLOADED
+890,P1_stationary.wav_split_11,P1
+891,background_in_air_iris.wav_split_19,BACKGROUND_NOISE
+892,gator.wav_split_19,BACKGROUND_NOISE
+893,P1_up_and_down.wav_split_17,P1
+894,background_in_air_iris.wav_split_21,BACKGROUND_NOISE
+895,P1_stationary copy.wav_split_27,P1
+896,WSU_P2_UNLOADED_UP_AND_DOWN.wav_split_29,P2_UNLOADED
+897,P1_stationary.wav_split_29,P1
+898,gator.wav_split_21,BACKGROUND_NOISE
+899,WSU_P2_UNLOADED_BACK_AND_FORTH copy.wav_split_15,P2_UNLOADED
+900,in_air_iris_far_away.wav_split_14,BACKGROUND_NOISE
+901,P1_stationary.wav_split_2,P1
+902,WSU_P2_LOADED_up_and_down.wav_split_11,P2_LOADED
+903,WSU_P2_UNLOADED_UP_AND_DOWN.wav_split_16,P2_UNLOADED
+904,P1_stationary.wav_split_16,P1
+905,P1_up_and_down.wav_split_28,P1
+906,P1_stationary copy.wav_split_18,P1
+907,background_06_02_04.wav_split_35,BACKGROUND_NOISE
+908,WSU_P2_DOWN_UNLOADED.wav_split_34,P2_UNLOADED
+909,background_06_02_03.wav_split_32,BACKGROUND_NOISE
+910,background_06_02_01.wav_split_23,BACKGROUND_NOISE
+911,WSU_P2_UNLOADED_BACK_AND_FORTH.wav_split_6,P2_UNLOADED
+912,WSU_P2_LOADED_BACK_AND_FORTH_2.wav_split_28,P2_LOADED
+913,canopy_up_01.wav_split_34,BACKGROUND_NOISE
+914,background_06_02_01.wav_split_40,BACKGROUND_NOISE
+915,WSU_P2_UNLOADED_BACK_AND_FORTH copy.wav_split_2,P2_UNLOADED
+916,WSU_P2_UNLOADED_BACK_AND_FORTH.wav_split_38,P2_UNLOADED
+917,in_air_iris_over_home_base.wav_split_38,BACKGROUND_NOISE
+918,WSU_P2_UNLOADED_BACK_AND_FORTH copy 2.wav_split_19,P2_UNLOADED
+919,WSU_P2_HIGH_LOADED_DOWN.wav_split_8,P2_LOADED
+920,purdue_P2_unloaded_up_down copy 2.wav_split_36,P2_UNLOADED
+921,WSU_P2_LOADED_BACK_AND_FORTH copy 2.wav_split_21,P2_LOADED
+922,background_in_air_iris_2.wav_split_24,BACKGROUND_NOISE
+923,WSU_P2_LOADED_BACK_AND_FORTH_2.wav_split_17,P2_LOADED
+924,background_eric_doing_stuff.wav_split_34,BACKGROUND_NOISE
+925,WSU_P2_DOWN_UNLOADED copy 2.wav_split_10,P2_UNLOADED
+926,WSU_P2_UNLOADED_BACK_AND_FORTH copy 2.wav_split_26,P2_UNLOADED
+927,background_in_air_iris_2.wav_split_5,BACKGROUND_NOISE
+928,WSU_P2_DOWN_UNLOADED copy 2.wav_split_28,P2_UNLOADED
+929,WSU_P2_UNLOADED_BACK_AND_FORTH copy.wav_split_5,P2_UNLOADED
+930,WSU_P2_LOADED_BACK_AND_FORTH copy 2.wav_split_19,P2_LOADED
+931,canopy_up_01.wav_split_33,BACKGROUND_NOISE
+932,WSU_P2_DOWN_UNLOADED copy 2.wav_split_17,P2_UNLOADED
+933,WSU_P2_UNLOADED_BACK_AND_FORTH copy 2.wav_split_21,P2_UNLOADED
+934,background_in_air_iris_2.wav_split_2,BACKGROUND_NOISE
+935,background_eric_doing_stuff.wav_split_33,BACKGROUND_NOISE
+936,WSU_P2_LOADED_BACK_AND_FORTH_2.wav_split_10,P2_LOADED
+937,background_in_air_iris_2.wav_split_23,BACKGROUND_NOISE
+938,WSU_P2_LOADED_BACK_AND_FORTH copy 2.wav_split_26,P2_LOADED
+939,purdue_P2_unloaded_up_down copy 2.wav_split_31,P2_UNLOADED
+940,WSU_P2_UNLOADED_BACK_AND_FORTH copy 2.wav_split_28,P2_UNLOADED
+941,WSU_P2_LOADED_BACK_AND_FORTH_2.wav_split_19,P2_LOADED
+942,purdue_P2_unloaded_up_down copy 2.wav_split_38,P2_UNLOADED
+943,P1_up_and_down.wav_split_4,P1
+944,in_air_iris_over_home_base.wav_split_36,BACKGROUND_NOISE
+945,WSU_P2_UNLOADED_BACK_AND_FORTH copy 2.wav_split_17,P2_UNLOADED
+946,WSU_P2_DOWN_UNLOADED copy 2.wav_split_21,P2_UNLOADED
+947,WSU_P2_HIGH_LOADED_DOWN.wav_split_6,P2_LOADED
+948,WSU_P2_UNLOADED_BACK_AND_FORTH.wav_split_36,P2_UNLOADED
+949,WSU_P2_LOADED_BACK_AND_FORTH copy.wav_split_2,P2_LOADED
+950,WSU_P2_LOADED_BACK_AND_FORTH_2.wav_split_26,P2_LOADED
+951,background_in_air_iris_2.wav_split_15,BACKGROUND_NOISE
+952,WSU_P2_LOADED_BACK_AND_FORTH copy 2.wav_split_10,P2_LOADED
+953,P1_up_and_down.wav_split_3,P1
+954,WSU_P2_LOADED_BACK_AND_FORTH copy 2.wav_split_28,P2_LOADED
+955,WSU_P2_DOWN_UNLOADED copy 2.wav_split_19,P2_UNLOADED
+956,WSU_P2_UNLOADED_BACK_AND_FORTH copy.wav_split_40,P2_UNLOADED
+957,WSU_P2_LOADED_BACK_AND_FORTH copy 2.wav_split_17,P2_LOADED
+958,background_in_air_iris_2.wav_split_12,BACKGROUND_NOISE
+959,WSU_P2_LOADED_BACK_AND_FORTH_2.wav_split_21,P2_LOADED
+960,WSU_P2_LOADED_BACK_AND_FORTH copy.wav_split_5,P2_LOADED
+961,WSU_P2_UNLOADED_BACK_AND_FORTH.wav_split_31,P2_UNLOADED
+962,WSU_P2_UNLOADED_BACK_AND_FORTH copy 2.wav_split_10,P2_UNLOADED
+963,WSU_P2_DOWN_UNLOADED copy 2.wav_split_26,P2_UNLOADED
+964,WSU_P2_HIGH_LOADED_DOWN.wav_split_1,P2_LOADED
+965,in_air_iris_over_home_base.wav_split_31,BACKGROUND_NOISE
+966,in_air_iris_far_away.wav_split_15,BACKGROUND_NOISE
+967,WSU_P2_UNLOADED_BACK_AND_FORTH copy.wav_split_14,P2_UNLOADED
+968,P1_stationary.wav_split_3,P1
+969,background_in_air_iris.wav_split_20,BACKGROUND_NOISE
+970,P1_stationary copy.wav_split_26,P1
+971,P1_up_and_down.wav_split_16,P1
+972,P1_stationary.wav_split_28,P1
+973,WSU_P2_UNLOADED_UP_AND_DOWN.wav_split_28,P2_UNLOADED
+974,gator.wav_split_20,BACKGROUND_NOISE
+975,background_06_02_03.wav_split_33,BACKGROUND_NOISE
+976,WSU_P2_DOWN_UNLOADED.wav_split_35,P2_UNLOADED
+977,WSU_P2_UNLOADED_BACK_AND_FORTH.wav_split_7,P2_UNLOADED
+978,background_06_02_01.wav_split_22,BACKGROUND_NOISE
+979,background_06_02_04.wav_split_34,BACKGROUND_NOISE
+980,P1_stationary.wav_split_17,P1
+981,WSU_P2_UNLOADED_UP_AND_DOWN.wav_split_17,P2_UNLOADED
+982,WSU_P2_LOADED_up_and_down.wav_split_10,P2_LOADED
+983,P1_stationary copy.wav_split_19,P1
+984,P1_up_and_down.wav_split_29,P1
+985,gator.wav_split_27,BACKGROUND_NOISE
+986,background_in_air_iris.wav_split_27,BACKGROUND_NOISE
+987,P1_stationary copy.wav_split_21,P1
+988,P1_up_and_down.wav_split_11,P1
+989,background_06_02_02.wav_split_8,BACKGROUND_NOISE
+990,WSU_P2_LOADED_up_and_down.wav_split_28,P2_LOADED
+991,WSU_P2_DOWN_UNLOADED.wav_split_8,P2_UNLOADED
+992,P1_stationary.wav_split_4,P1
+993,in_air_iris_far_away.wav_split_12,BACKGROUND_NOISE
+994,WSU_P2_UNLOADED_BACK_AND_FORTH copy.wav_split_13,P2_UNLOADED
+995,P1_stationary.wav_split_10,P1
+996,WSU_P2_UNLOADED_UP_AND_DOWN.wav_split_10,P2_UNLOADED
+997,WSU_P2_LOADED_up_and_down.wav_split_17,P2_LOADED
+998,background_in_air_iris.wav_split_18,BACKGROUND_NOISE
+999,background_06_02_04.wav_split_33,BACKGROUND_NOISE
+1000,gator.wav_split_18,BACKGROUND_NOISE
+1001,background_06_02_01.wav_split_25,BACKGROUND_NOISE
+1002,WSU_P2_DOWN_UNLOADED.wav_split_32,P2_UNLOADED
+1003,background_06_02_03.wav_split_34,BACKGROUND_NOISE
+1004,background_in_air_iris.wav_split_3,BACKGROUND_NOISE
+1005,P1_stationary.wav_split_19,P1
+1006,WSU_P2_UNLOADED_UP_AND_DOWN.wav_split_19,P2_UNLOADED
+1007,P1_stationary copy.wav_split_17,P1
+1008,background_in_air_iris.wav_split_11,BACKGROUND_NOISE
+1009,P1_up_and_down.wav_split_27,P1
+1010,gator.wav_split_11,BACKGROUND_NOISE
+1011,in_air_iris_far_away.wav_split_24,BACKGROUND_NOISE
+1012,WSU_P2_UNLOADED_BACK_AND_FORTH copy.wav_split_25,P2_UNLOADED
+1013,WSU_P2_UNLOADED_BACK_AND_FORTH.wav_split_9,P2_UNLOADED
+1014,P1_stationary copy.wav_split_28,P1
+1015,P1_up_and_down.wav_split_18,P1
+1016,background_06_02_02.wav_split_1,BACKGROUND_NOISE
+1017,P1_stationary.wav_split_26,P1
+1018,WSU_P2_UNLOADED_UP_AND_DOWN.wav_split_26,P2_UNLOADED
+1019,WSU_P2_LOADED_up_and_down.wav_split_21,P2_LOADED
+1020,WSU_P2_DOWN_UNLOADED.wav_split_1,P2_UNLOADED
+1021,background_06_02_01.wav_split_13,BACKGROUND_NOISE
+1022,purdue_P2_unloaded_up_down.wav_split_4,P2_UNLOADED
+1023,train.wav_split_33,BACKGROUND_NOISE
+1024,in_air_iris_far_away.wav_split_23,BACKGROUND_NOISE
+1025,WSU_P2_UNLOADED_BACK_AND_FORTH copy.wav_split_22,P2_UNLOADED
+1026,gator.wav_split_16,BACKGROUND_NOISE
+1027,WSU_P2_LOADED_up_and_down.wav_split_19,P2_LOADED
+1028,P1_stationary copy.wav_split_10,P1
+1029,background_in_air_iris.wav_split_16,BACKGROUND_NOISE
+1030,P1_up_and_down.wav_split_20,P1
+1031,background_in_air_iris.wav_split_4,BACKGROUND_NOISE
+1032,purdue_P2_unloaded_up_down.wav_split_3,P2_UNLOADED
+1033,background_06_02_01.wav_split_14,BACKGROUND_NOISE
+1034,train.wav_split_34,BACKGROUND_NOISE
+1035,WSU_P2_DOWN_UNLOADED.wav_split_6,P2_UNLOADED
+1036,background_in_air_iris.wav_split_29,BACKGROUND_NOISE
+1037,background_06_02_02.wav_split_6,BACKGROUND_NOISE
+1038,P1_stationary.wav_split_21,P1
+1039,WSU_P2_UNLOADED_UP_AND_DOWN.wav_split_21,P2_UNLOADED
+1040,WSU_P2_LOADED_up_and_down.wav_split_26,P2_LOADED
+1041,gator.wav_split_29,BACKGROUND_NOISE
+1042,in_air_iris_over_home_base.wav_split_17,BACKGROUND_NOISE
+1043,WSU_P2_UNLOADED_BACK_AND_FORTH copy 2.wav_split_36,P2_UNLOADED
+1044,background_eric_doing_stuff.wav_split_24,BACKGROUND_NOISE
+1045,purrdue_P2_standing copy.wav_split_7,P2
+1046,background_in_air_iris_2.wav_split_34,BACKGROUND_NOISE
+1047,WSU_P2_LOADED_BACK_AND_FORTH copy 2.wav_split_31,P2_LOADED
+1048,WSU_P2_UNLOADED_BACK_AND_FORTH.wav_split_17,P2_UNLOADED
+1049,purdue_P2_unloaded_up_down copy 2.wav_split_26,P2_UNLOADED
+1050,WSU_P2_LOADED_up_and_down.wav_split_8,P2_LOADED
+1051,WSU_P2_LOADED_BACK_AND_FORTH_2 copy 2.wav_split_6,P2_LOADED
+1052,in_air_iris_over_home_base.wav_split_28,BACKGROUND_NOISE
+1053,purdue_P2_unloaded_up_down copy 2.wav_split_19,P2_UNLOADED
+1054,WSU_P2_UNLOADED_BACK_AND_FORTH.wav_split_28,P2_UNLOADED
+1055,canopy_up_01.wav_split_24,BACKGROUND_NOISE
+1056,WSU_P2_LOADED_BACK_AND_FORTH_2.wav_split_38,P2_LOADED
+1057,purdue_P2_unloaded_up_down copy 2.wav_split_21,P2_UNLOADED
+1058,WSU_P2_UNLOADED_BACK_AND_FORTH.wav_split_10,P2_UNLOADED
+1059,WSU_P2_LOADED_BACK_AND_FORTH copy 2.wav_split_36,P2_LOADED
+1060,background_in_air_iris_2.wav_split_33,BACKGROUND_NOISE
+1061,background_eric_doing_stuff.wav_split_23,BACKGROUND_NOISE
+1062,WSU_P2_UNLOADED_BACK_AND_FORTH copy 2.wav_split_31,P2_UNLOADED
+1063,in_air_iris_over_home_base.wav_split_10,BACKGROUND_NOISE
+1064,canopy_up_01.wav_split_23,BACKGROUND_NOISE
+1065,WSU_P2_DOWN_UNLOADED.wav_split_40,P2_UNLOADED
+1066,WSU_P2_LOADED_BACK_AND_FORTH_2 copy 2.wav_split_1,P2_LOADED
+1067,WSU_P2_DOWN_UNLOADED copy 2.wav_split_38,P2_UNLOADED
+1068,WSU_P2_LOADED_BACK_AND_FORTH_2.wav_split_36,P2_LOADED
+1069,purdue_P2_unloaded_up_down copy 2.wav_split_17,P2_UNLOADED
+1070,WSU_P2_UNLOADED_BACK_AND_FORTH.wav_split_26,P2_UNLOADED
+1071,WSU_P2_LOADED_up_and_down.wav_split_6,P2_LOADED
+1072,WSU_P2_LOADED_BACK_AND_FORTH_2 copy 2.wav_split_8,P2_LOADED
+1073,WSU_P2_DOWN_UNLOADED copy 2.wav_split_31,P2_UNLOADED
+1074,in_air_iris_over_home_base.wav_split_26,BACKGROUND_NOISE
+1075,WSU_P2_UNLOADED_UP_AND_DOWN.wav_split_2,P2_UNLOADED
+1076,background_eric_doing_stuff.wav_split_15,BACKGROUND_NOISE
+1077,WSU_P2_UNLOADED_BACK_AND_FORTH.wav_split_19,P2_UNLOADED
+1078,purdue_P2_unloaded_up_down copy 2.wav_split_28,P2_UNLOADED
+1079,canopy_up_01.wav_split_15,BACKGROUND_NOISE
+1080,purrdue_P2_standing copy.wav_split_9,P2
+1081,in_air_iris_over_home_base.wav_split_19,BACKGROUND_NOISE
+1082,WSU_P2_UNLOADED_BACK_AND_FORTH copy 2.wav_split_38,P2_UNLOADED
+1083,background_eric_doing_stuff.wav_split_12,BACKGROUND_NOISE
+1084,in_air_iris_over_home_base.wav_split_21,BACKGROUND_NOISE
+1085,WSU_P2_UNLOADED_UP_AND_DOWN.wav_split_5,P2_UNLOADED
+1086,WSU_P2_DOWN_UNLOADED copy 2.wav_split_36,P2_UNLOADED
+1087,WSU_P2_LOADED_up_and_down.wav_split_1,P2_LOADED
+1088,WSU_P2_UNLOADED_BACK_AND_FORTH.wav_split_21,P2_UNLOADED
+1089,purdue_P2_unloaded_up_down copy 2.wav_split_10,P2_UNLOADED
+1090,WSU_P2_LOADED_BACK_AND_FORTH_2.wav_split_31,P2_LOADED
+1091,WSU_P2_LOADED_BACK_AND_FORTH copy 2.wav_split_38,P2_LOADED
+1092,canopy_up_01.wav_split_12,BACKGROUND_NOISE
+1093,WSU_P2_LOADED_up_and_down copy.wav_split_8,P2_LOADED
+1094,P1_up_and_down.wav_split_39,P1
+1095,background_06_02_01.wav_split_5,BACKGROUND_NOISE
+1096,background_06_02_04.wav_split_24,BACKGROUND_NOISE
+1097,WSU_P2_LOADED_up_and_down copy 2.wav_split_9,P2_LOADED
+1098,background_06_02_01.wav_split_32,BACKGROUND_NOISE
+1099,train.wav_split_12,BACKGROUND_NOISE
+1100,WSU_P2_DOWN_UNLOADED.wav_split_25,P2_UNLOADED
+1101,background_06_02_03.wav_split_23,BACKGROUND_NOISE
+1102,gator.wav_split_30,BACKGROUND_NOISE
+1103,WSU_P2_UNLOADED_UP_AND_DOWN.wav_split_38,P2_UNLOADED
+1104,P1_stationary.wav_split_38,P1
+1105,P1_stationary copy.wav_split_36,P1
+1106,background_in_air_iris.wav_split_30,BACKGROUND_NOISE
+1107,WSU_P2_HIGH_LOADED_DOWN copy 2.wav_split_3,P2_LOADED
+1108,background_06_02_03.wav_split_24,BACKGROUND_NOISE
+1109,WSU_P2_DOWN_UNLOADED.wav_split_22,P2_UNLOADED
+1110,background_06_02_01.wav_split_35,BACKGROUND_NOISE
+1111,train.wav_split_15,BACKGROUND_NOISE
+1112,background_06_02_04.wav_split_23,BACKGROUND_NOISE
+1113,background_06_02_01.wav_split_2,BACKGROUND_NOISE
+1114,foo.wav_split_8,BACKGROUND_NOISE
+1115,canopy_up_01.wav_split_7,BACKGROUND_NOISE
+1116,WSU_P2_HIGH_LOADED_DOWN copy 2.wav_split_4,P2_LOADED
+1117,purdue_P2_unloaded_up_down copy.wav_split_9,P2_UNLOADED
+1118,WSU_P2_LOADED_up_and_down.wav_split_38,P2_LOADED
+1119,P1_stationary copy.wav_split_31,P1
+1120,background_in_air_iris.wav_split_37,BACKGROUND_NOISE
+1121,gator.wav_split_37,BACKGROUND_NOISE
+1122,foo.wav_split_1,BACKGROUND_NOISE
+1123,train.wav_split_23,BACKGROUND_NOISE
+1124,background_06_02_03.wav_split_12,BACKGROUND_NOISE
+1125,WSU_P2_DOWN_UNLOADED.wav_split_14,P2_UNLOADED
+1126,background_06_02_04.wav_split_15,BACKGROUND_NOISE
+1127,WSU_P2_UNLOADED_UP_AND_DOWN.wav_split_36,P2_UNLOADED
+1128,P1_stationary.wav_split_36,P1
+1129,WSU_P2_LOADED_up_and_down.wav_split_31,P2_LOADED
+1130,P1_stationary copy.wav_split_38,P1
+1131,WSU_P2_LOADED_up_and_down copy 2.wav_split_7,P2_LOADED
+1132,in_air_iris_far_away.wav_split_34,BACKGROUND_NOISE
+1133,WSU_P2_UNLOADED_BACK_AND_FORTH copy.wav_split_35,P2_UNLOADED
+1134,WSU_P2_LOADED_up_and_down copy.wav_split_6,P2_LOADED
+1135,P1_up_and_down.wav_split_37,P1
+1136,in_air_iris_over_home_base.wav_split_5,BACKGROUND_NOISE
+1137,gator.wav_split_39,BACKGROUND_NOISE
+1138,WSU_P2_UNLOADED_UP_AND_DOWN.wav_split_31,P2_UNLOADED
+1139,P1_stationary.wav_split_31,P1
+1140,WSU_P2_LOADED_up_and_down.wav_split_36,P2_LOADED
+1141,background_in_air_iris.wav_split_39,BACKGROUND_NOISE
+1142,background_06_02_04.wav_split_12,BACKGROUND_NOISE
+1143,WSU_P2_DOWN_UNLOADED.wav_split_13,P2_UNLOADED
+1144,background_06_02_03.wav_split_15,BACKGROUND_NOISE
+1145,foo.wav_split_6,BACKGROUND_NOISE
+1146,train.wav_split_24,BACKGROUND_NOISE
+1147,canopy_up_01.wav_split_9,BACKGROUND_NOISE
+1148,purdue_P2_unloaded_up_down copy.wav_split_7,P2_UNLOADED
+1149,in_air_iris_over_home_base.wav_split_2,BACKGROUND_NOISE
+1150,WSU_P2_LOADED_up_and_down copy.wav_split_1,P2_LOADED
+1151,P1_up_and_down.wav_split_30,P1
+1152,in_air_iris_far_away.wav_split_33,BACKGROUND_NOISE
+1153,WSU_P2_UNLOADED_BACK_AND_FORTH copy.wav_split_32,P2_UNLOADED
+1154,purdue_P2_unloaded_up_down copy 2.wav_split_11,P2_UNLOADED
+1155,WSU_P2_UNLOADED_BACK_AND_FORTH.wav_split_20,P2_UNLOADED
+1156,WSU_P2_LOADED_BACK_AND_FORTH_2.wav_split_30,P2_LOADED
+1157,background_eric_doing_stuff.wav_split_13,BACKGROUND_NOISE
+1158,WSU_P2_DOWN_UNLOADED copy 2.wav_split_37,P2_UNLOADED
+1159,WSU_P2_UNLOADED_UP_AND_DOWN.wav_split_4,P2_UNLOADED
+1160,in_air_iris_over_home_base.wav_split_20,BACKGROUND_NOISE
+1161,canopy_up_01.wav_split_13,BACKGROUND_NOISE
+1162,WSU_P2_LOADED_BACK_AND_FORTH copy 2.wav_split_39,P2_LOADED
+1163,WSU_P2_UNLOADED_UP_AND_DOWN.wav_split_3,P2_UNLOADED
+1164,in_air_iris_over_home_base.wav_split_27,BACKGROUND_NOISE
+1165,WSU_P2_DOWN_UNLOADED copy 2.wav_split_30,P2_UNLOADED
+1166,WSU_P2_LOADED_up_and_down.wav_split_7,P2_LOADED
+1167,WSU_P2_LOADED_BACK_AND_FORTH_2 copy 2.wav_split_9,P2_LOADED
+1168,background_eric_doing_stuff.wav_split_14,BACKGROUND_NOISE
+1169,WSU_P2_LOADED_BACK_AND_FORTH_2.wav_split_37,P2_LOADED
+1170,WSU_P2_UNLOADED_BACK_AND_FORTH.wav_split_27,P2_UNLOADED
+1171,purdue_P2_unloaded_up_down copy 2.wav_split_16,P2_UNLOADED
+1172,purrdue_P2_standing copy.wav_split_8,P2
+1173,WSU_P2_UNLOADED_BACK_AND_FORTH copy 2.wav_split_39,P2_UNLOADED
+1174,in_air_iris_over_home_base.wav_split_18,BACKGROUND_NOISE
+1175,purdue_P2_unloaded_up_down copy 2.wav_split_29,P2_UNLOADED
+1176,WSU_P2_UNLOADED_BACK_AND_FORTH.wav_split_18,P2_UNLOADED
+1177,train.wav_split_40,BACKGROUND_NOISE
+1178,canopy_up_01.wav_split_14,BACKGROUND_NOISE
+1179,background_eric_doing_stuff.wav_split_22,BACKGROUND_NOISE
+1180,purrdue_P2_standing copy.wav_split_1,P2
+1181,in_air_iris_over_home_base.wav_split_11,BACKGROUND_NOISE
+1182,WSU_P2_UNLOADED_BACK_AND_FORTH copy 2.wav_split_30,P2_UNLOADED
+1183,WSU_P2_UNLOADED_BACK_AND_FORTH.wav_split_11,P2_UNLOADED
+1184,purdue_P2_unloaded_up_down copy 2.wav_split_20,P2_UNLOADED
+1185,background_in_air_iris_2.wav_split_32,BACKGROUND_NOISE
+1186,WSU_P2_LOADED_BACK_AND_FORTH copy 2.wav_split_37,P2_LOADED
+1187,background_06_02_04.wav_split_40,BACKGROUND_NOISE
+1188,WSU_P2_DOWN_UNLOADED copy 2.wav_split_39,P2_UNLOADED
+1189,canopy_up_01.wav_split_22,BACKGROUND_NOISE
+1190,WSU_P2_LOADED_BACK_AND_FORTH copy 2.wav_split_30,P2_LOADED
+1191,background_in_air_iris_2.wav_split_35,BACKGROUND_NOISE
+1192,purdue_P2_unloaded_up_down copy 2.wav_split_27,P2_UNLOADED
+1193,WSU_P2_UNLOADED_BACK_AND_FORTH.wav_split_16,P2_UNLOADED
+1194,WSU_P2_UNLOADED_BACK_AND_FORTH copy 2.wav_split_37,P2_UNLOADED
+1195,in_air_iris_over_home_base.wav_split_16,BACKGROUND_NOISE
+1196,background_eric_doing_stuff.wav_split_25,BACKGROUND_NOISE
+1197,purrdue_P2_standing copy.wav_split_6,P2
+1198,WSU_P2_UNLOADED_BACK_AND_FORTH.wav_split_29,P2_UNLOADED
+1199,background_06_02_03.wav_split_40,BACKGROUND_NOISE
+1200,purdue_P2_unloaded_up_down copy 2.wav_split_18,P2_UNLOADED
+1201,canopy_up_01.wav_split_25,BACKGROUND_NOISE
+1202,WSU_P2_LOADED_BACK_AND_FORTH_2.wav_split_39,P2_LOADED
+1203,in_air_iris_over_home_base.wav_split_29,BACKGROUND_NOISE
+1204,WSU_P2_LOADED_up_and_down.wav_split_9,P2_LOADED
+1205,WSU_P2_LOADED_BACK_AND_FORTH_2 copy 2.wav_split_7,P2_LOADED
+1206,background_06_02_03.wav_split_14,BACKGROUND_NOISE
+1207,WSU_P2_DOWN_UNLOADED.wav_split_12,P2_UNLOADED
+1208,purdue_P2_unloaded_up_down copy.wav_split_6,P2_UNLOADED
+1209,foo.wav_split_7,BACKGROUND_NOISE
+1210,train.wav_split_25,BACKGROUND_NOISE
+1211,canopy_up_01.wav_split_8,BACKGROUND_NOISE
+1212,gator.wav_split_38,BACKGROUND_NOISE
+1213,background_06_02_04.wav_split_13,BACKGROUND_NOISE
+1214,WSU_P2_LOADED_up_and_down.wav_split_37,P2_LOADED
+1215,P1_stationary.wav_split_30,P1
+1216,WSU_P2_UNLOADED_UP_AND_DOWN.wav_split_30,P2_UNLOADED
+1217,background_in_air_iris.wav_split_38,BACKGROUND_NOISE
+1218,WSU_P2_LOADED_up_and_down copy 2.wav_split_1,P2_LOADED
+1219,WSU_P2_UNLOADED_BACK_AND_FORTH copy.wav_split_33,P2_UNLOADED
+1220,in_air_iris_far_away.wav_split_32,BACKGROUND_NOISE
+1221,P1_up_and_down.wav_split_31,P1
+1222,in_air_iris_over_home_base.wav_split_3,BACKGROUND_NOISE
+1223,WSU_P2_LOADED_up_and_down.wav_split_30,P2_LOADED
+1224,P1_stationary.wav_split_37,P1
+1225,WSU_P2_UNLOADED_UP_AND_DOWN.wav_split_37,P2_UNLOADED
+1226,P1_stationary copy.wav_split_39,P1
+1227,background_06_02_04.wav_split_14,BACKGROUND_NOISE
+1228,train.wav_split_22,BACKGROUND_NOISE
+1229,purdue_P2_unloaded_up_down copy.wav_split_1,P2_UNLOADED
+1230,WSU_P2_DOWN_UNLOADED.wav_split_15,P2_UNLOADED
+1231,background_06_02_03.wav_split_13,BACKGROUND_NOISE
+1232,in_air_iris_over_home_base.wav_split_4,BACKGROUND_NOISE
+1233,P1_up_and_down.wav_split_36,P1
+1234,WSU_P2_LOADED_up_and_down copy.wav_split_7,P2_LOADED
+1235,WSU_P2_UNLOADED_BACK_AND_FORTH copy.wav_split_34,P2_UNLOADED
+1236,in_air_iris_far_away.wav_split_35,BACKGROUND_NOISE
+1237,WSU_P2_LOADED_up_and_down copy 2.wav_split_6,P2_LOADED
+1238,background_06_02_01.wav_split_3,BACKGROUND_NOISE
+1239,background_06_02_04.wav_split_22,BACKGROUND_NOISE
+1240,WSU_P2_DOWN_UNLOADED.wav_split_23,P2_UNLOADED
+1241,background_06_02_03.wav_split_25,BACKGROUND_NOISE
+1242,canopy_up_01.wav_split_40,BACKGROUND_NOISE
+1243,background_06_02_01.wav_split_34,BACKGROUND_NOISE
+1244,train.wav_split_14,BACKGROUND_NOISE
+1245,WSU_P2_LOADED_up_and_down.wav_split_39,P2_LOADED
+1246,P1_stationary copy.wav_split_30,P1
+1247,background_in_air_iris.wav_split_36,BACKGROUND_NOISE
+1248,background_eric_doing_stuff.wav_split_40,BACKGROUND_NOISE
+1249,gator.wav_split_36,BACKGROUND_NOISE
+1250,WSU_P2_HIGH_LOADED_DOWN copy 2.wav_split_5,P2_LOADED
+1251,purdue_P2_unloaded_up_down copy.wav_split_8,P2_UNLOADED
+1252,foo.wav_split_9,BACKGROUND_NOISE
+1253,canopy_up_01.wav_split_6,BACKGROUND_NOISE
+1254,WSU_P2_LOADED_up_and_down copy 2.wav_split_8,P2_LOADED
+1255,background_06_02_01.wav_split_33,BACKGROUND_NOISE
+1256,train.wav_split_13,BACKGROUND_NOISE
+1257,background_06_02_03.wav_split_22,BACKGROUND_NOISE
+1258,WSU_P2_DOWN_UNLOADED.wav_split_24,P2_UNLOADED
+1259,background_06_02_04.wav_split_25,BACKGROUND_NOISE
+1260,background_06_02_01.wav_split_4,BACKGROUND_NOISE
+1261,P1_up_and_down.wav_split_38,P1
+1262,WSU_P2_LOADED_up_and_down copy.wav_split_9,P2_LOADED
+1263,canopy_up_01.wav_split_1,BACKGROUND_NOISE
+1264,WSU_P2_HIGH_LOADED_DOWN copy 2.wav_split_2,P2_LOADED
+1265,gator.wav_split_31,BACKGROUND_NOISE
+1266,P1_stationary.wav_split_39,P1
+1267,WSU_P2_UNLOADED_UP_AND_DOWN.wav_split_39,P2_UNLOADED
+1268,P1_stationary copy.wav_split_37,P1
+1269,background_in_air_iris.wav_split_31,BACKGROUND_NOISE
+1270,WSU_P2_LOADED_BACK_AND_FORTH_2 copy.wav_split_24,P2_LOADED
+1271,WSU_P2_UNLOADED_BACK_AND_FORTH copy 2.wav_split_6,P2_UNLOADED
+1272,WSU_P2_UNLOADED_UP_AND_DOWN copy.wav_split_12,P2_UNLOADED
+1273,motorcycle.wav_split_3,BACKGROUND_NOISE
+1274,foo.wav_split_37,BACKGROUND_NOISE
+1275,P1_stationary copy 2.wav_split_22,P1
+1276,P1_stationary copy.wav_split_5,P1
+1277,WSU_P2_LOADED_BACK_AND_FORTH.wav_split_16,P2_LOADED
+1278,P1_up_and_down copy.wav_split_30,P1
+1279,purrdue_P2_standing.wav_split_35,P2
+1280,WSU_P2_LOADED_BACK_AND_FORTH copy.wav_split_32,P2_LOADED
+1281,WSU_P2_HIGH_LOADED_DOWN.wav_split_39,P2_LOADED
+1282,WSU_P2_LOADED_BACK_AND_FORTH_2.wav_split_9,P2_LOADED
+1283,goo2.wav_split_9,BACKGROUND_NOISE
+1284,background_06_02_02.wav_split_24,BACKGROUND_NOISE
+1285,WSU_P2_LOADED_BACK_AND_FORTH.wav_split_29,P2_LOADED
+1286,WSU_P2_UNLOADED_UP_AND_DOWN copy 2.wav_split_2,P2_UNLOADED
+1287,WSU_P2_HIGH_LOADED_DOWN copy.wav_split_36,P2_LOADED
+1288,goo2.wav_split_22,BACKGROUND_NOISE
+1289,purrdue_P2_standing.wav_split_32,P2
+1290,WSU_P2_LOADED_BACK_AND_FORTH copy.wav_split_35,P2_LOADED
+1291,WSU_P2_LOADED_BACK_AND_FORTH.wav_split_11,P2_LOADED
+1292,P1_up_and_down copy.wav_split_37,P1
+1293,P1_stationary copy.wav_split_2,P1
+1294,P1_stationary copy 2.wav_split_25,P1
+1295,WSU_P2_UNLOADED_BACK_AND_FORTH copy 2.wav_split_1,P2_UNLOADED
+1296,WSU_P2_UNLOADED_UP_AND_DOWN copy.wav_split_15,P2_UNLOADED
+1297,motorcycle.wav_split_4,BACKGROUND_NOISE
+1298,foo.wav_split_30,BACKGROUND_NOISE
+1299,WSU_P2_LOADED_BACK_AND_FORTH_2 copy.wav_split_23,P2_LOADED
+1300,goo2.wav_split_25,BACKGROUND_NOISE
+1301,WSU_P2_UNLOADED_UP_AND_DOWN copy 2.wav_split_5,P2_UNLOADED
+1302,WSU_P2_HIGH_LOADED_DOWN copy.wav_split_31,P2_LOADED
+1303,background_06_02_02.wav_split_23,BACKGROUND_NOISE
+1304,P1_up_and_down copy 2.wav_split_9,P1
+1305,WSU_P2_HIGH_LOADED_DOWN copy.wav_split_38,P2_LOADED
+1306,canopy_heavy_wind.wav_split_4,BACKGROUND_NOISE
+1307,P1_stationary copy 2.wav_split_13,P1
+1308,WSU_P2_DOWN_UNLOADED copy 2.wav_split_4,P2_UNLOADED
+1309,eric_survey.wav_split_33,BACKGROUND_NOISE
+1310,WSU_P2_LOADED_BACK_AND_FORTH.wav_split_27,P2_LOADED
+1311,goo2.wav_split_7,BACKGROUND_NOISE
+1312,WSU_P2_LOADED_BACK_AND_FORTH_2 copy.wav_split_15,P2_LOADED
+1313,WSU_P2_UNLOADED_UP_AND_DOWN copy.wav_split_23,P2_UNLOADED
+1314,WSU_P2_LOADED_BACK_AND_FORTH_2.wav_split_7,P2_LOADED
+1315,motorcycle.wav_split_32,BACKGROUND_NOISE
+1316,WSU_P2_LOADED_BACK_AND_FORTH.wav_split_18,P2_LOADED
+1317,WSU_P2_HIGH_LOADED_DOWN.wav_split_37,P2_LOADED
+1318,goo2.wav_split_13,BACKGROUND_NOISE
+1319,WSU_P2_UNLOADED_BACK_AND_FORTH copy 2.wav_split_8,P2_UNLOADED
+1320,foo.wav_split_39,BACKGROUND_NOISE
+1321,background_06_02_02.wav_split_15,BACKGROUND_NOISE
+1322,motorcycle.wav_split_35,BACKGROUND_NOISE
+1323,P1_up_and_down copy 2.wav_split_7,P1
+1324,WSU_P2_UNLOADED_UP_AND_DOWN copy.wav_split_24,P2_UNLOADED
+1325,WSU_P2_LOADED_BACK_AND_FORTH_2 copy.wav_split_12,P2_LOADED
+1326,eric_survey.wav_split_34,BACKGROUND_NOISE
+1327,WSU_P2_LOADED_BACK_AND_FORTH.wav_split_20,P2_LOADED
+1328,WSU_P2_DOWN_UNLOADED copy 2.wav_split_3,P2_UNLOADED
+1329,canopy_heavy_wind.wav_split_3,BACKGROUND_NOISE
+1330,P1_stationary copy 2.wav_split_14,P1
+1331,background_06_02_02.wav_split_12,BACKGROUND_NOISE
+1332,goo2.wav_split_14,BACKGROUND_NOISE
+1333,WSU_P2_HIGH_LOADED_DOWN.wav_split_30,P2_LOADED
+1334,P1_up_and_down copy.wav_split_39,P1
+1335,WSU_P2_LOADED_up_and_down copy 2.wav_split_24,P2_LOADED
+1336,purrdue_P2_standing copy.wav_split_39,P2
+1337,WSU_P2_LOADED_BACK_AND_FORTH.wav_split_8,P2_LOADED
+1338,purdue_P2_unloaded_up_down.wav_split_36,P2_UNLOADED
+1339,train.wav_split_6,BACKGROUND_NOISE
+1340,P1_up_and_down copy 2.wav_split_23,P1
+1341,goo2.wav_split_40,BACKGROUND_NOISE
+1342,canopy_heavy_wind.wav_split_27,BACKGROUND_NOISE
+1343,WSU_P2_HIGH_LOADED_DOWN copy 2.wav_split_12,P2_LOADED
+1344,train2.wav_split_28,BACKGROUND_NOISE
+1345,background_in_air_iris_3.wav_split_33,BACKGROUND_NOISE
+1346,WSU_P2_UNLOADED_UP_AND_DOWN copy 2.wav_split_15,P2_UNLOADED
+1347,train2.wav_split_17,BACKGROUND_NOISE
+1348,purdue_P2_unloaded_up_down copy.wav_split_21,P2_UNLOADED
+1349,background_06_02_04.wav_split_4,BACKGROUND_NOISE
+1350,WSU_P2_LOADED_BACK_AND_FORTH_2 copy 2.wav_split_15,P2_LOADED
+1351,canopy_heavy_wind.wav_split_18,BACKGROUND_NOISE
+1352,P1_stationary copy 2.wav_split_40,P1
+1353,purdue_P2_unloaded_up_down copy.wav_split_19,P2_UNLOADED
+1354,WSU_P2_HIGH_LOADED_DOWN copy 2.wav_split_15,P2_LOADED
+1355,canopy_heavy_wind.wav_split_20,BACKGROUND_NOISE
+1356,P1_up_and_down copy 2.wav_split_24,P1
+1357,purdue_P2_unloaded_up_down.wav_split_31,P2_UNLOADED
+1358,train.wav_split_1,BACKGROUND_NOISE
+1359,WSU_P2_LOADED_up_and_down copy 2.wav_split_23,P2_LOADED
+1360,WSU_P2_LOADED_BACK_AND_FORTH_2 copy 2.wav_split_12,P2_LOADED
+1361,background_06_02_04.wav_split_3,BACKGROUND_NOISE
+1362,train2.wav_split_10,BACKGROUND_NOISE
+1363,purdue_P2_unloaded_up_down copy.wav_split_26,P2_UNLOADED
+1364,WSU_P2_UNLOADED_UP_AND_DOWN copy 2.wav_split_12,P2_UNLOADED
+1365,background_in_air_iris_3.wav_split_34,BACKGROUND_NOISE
+1366,WSU_P2_HIGH_LOADED_DOWN copy 2.wav_split_23,P2_LOADED
+1367,train2.wav_split_19,BACKGROUND_NOISE
+1368,in_air_iris_far_away.wav_split_3,BACKGROUND_NOISE
+1369,canopy_heavy_wind.wav_split_16,BACKGROUND_NOISE
+1370,WSU_P2_LOADED_up_and_down copy 2.wav_split_15,P2_LOADED
+1371,P1_up_and_down copy 2.wav_split_12,P1
+1372,canopy_heavy_wind.wav_split_29,BACKGROUND_NOISE
+1373,WSU_P2_LOADED_BACK_AND_FORTH_2 copy 2.wav_split_24,P2_LOADED
+1374,WSU_P2_LOADED_BACK_AND_FORTH copy 2.wav_split_5,P2_LOADED
+1375,purdue_P2_unloaded_up_down copy.wav_split_10,P2_UNLOADED
+1376,WSU_P2_DOWN_UNLOADED copy.wav_split_34,P2_UNLOADED
+1377,train2.wav_split_26,BACKGROUND_NOISE
+1378,purrdue_P2_standing copy 2.wav_split_32,P2
+1379,purdue_P2_unloaded_up_down copy 2.wav_split_2,P2_UNLOADED
+1380,purdue_P2_unloaded_up_down.wav_split_38,P2_UNLOADED
+1381,train.wav_split_8,BACKGROUND_NOISE
+1382,WSU_P2_UNLOADED_UP_AND_DOWN copy 2.wav_split_24,P2_UNLOADED
+1383,WSU_P2_LOADED_up_and_down copy.wav_split_32,P2_LOADED
+1384,purrdue_P2_standing copy.wav_split_37,P2
+1385,WSU_P2_LOADED_BACK_AND_FORTH.wav_split_6,P2_LOADED
+1386,P1_up_and_down copy 2.wav_split_15,P1
+1387,WSU_P2_LOADED_up_and_down copy 2.wav_split_12,P2_LOADED
+1388,in_air_iris_far_away.wav_split_4,BACKGROUND_NOISE
+1389,canopy_heavy_wind.wav_split_11,BACKGROUND_NOISE
+1390,WSU_P2_HIGH_LOADED_DOWN copy 2.wav_split_24,P2_LOADED
+1391,purdue_P2_unloaded_up_down copy.wav_split_28,P2_UNLOADED
+1392,purrdue_P2_standing copy.wav_split_30,P2
+1393,WSU_P2_LOADED_BACK_AND_FORTH.wav_split_1,P2_LOADED
+1394,WSU_P2_LOADED_up_and_down copy.wav_split_35,P2_LOADED
+1395,WSU_P2_UNLOADED_UP_AND_DOWN copy 2.wav_split_23,P2_UNLOADED
+1396,purrdue_P2_standing copy 2.wav_split_35,P2
+1397,purdue_P2_unloaded_up_down copy 2.wav_split_5,P2_UNLOADED
+1398,purdue_P2_unloaded_up_down copy.wav_split_17,P2_UNLOADED
+1399,WSU_P2_DOWN_UNLOADED copy.wav_split_33,P2_UNLOADED
+1400,train2.wav_split_21,BACKGROUND_NOISE
+1401,WSU_P2_LOADED_BACK_AND_FORTH_2 copy 2.wav_split_23,P2_LOADED
+1402,WSU_P2_LOADED_BACK_AND_FORTH copy 2.wav_split_2,P2_LOADED
+1403,WSU_P2_DOWN_UNLOADED copy 2.wav_split_2,P2_UNLOADED
+1404,WSU_P2_LOADED_BACK_AND_FORTH_2 copy 2.wav_split_40,P2_LOADED
+1405,eric_survey.wav_split_35,BACKGROUND_NOISE
+1406,WSU_P2_LOADED_BACK_AND_FORTH.wav_split_21,P2_LOADED
+1407,canopy_heavy_wind.wav_split_2,BACKGROUND_NOISE
+1408,P1_stationary copy 2.wav_split_15,P1
+1409,P1_up_and_down copy 2.wav_split_6,P1
+1410,WSU_P2_UNLOADED_UP_AND_DOWN copy.wav_split_25,P2_UNLOADED
+1411,WSU_P2_LOADED_BACK_AND_FORTH_2.wav_split_1,P2_LOADED
+1412,motorcycle.wav_split_34,BACKGROUND_NOISE
+1413,WSU_P2_UNLOADED_UP_AND_DOWN copy 2.wav_split_40,P2_UNLOADED
+1414,goo2.wav_split_1,BACKGROUND_NOISE
+1415,WSU_P2_LOADED_BACK_AND_FORTH_2 copy.wav_split_13,P2_LOADED
+1416,goo2.wav_split_15,BACKGROUND_NOISE
+1417,P1_up_and_down copy.wav_split_38,P1
+1418,WSU_P2_HIGH_LOADED_DOWN.wav_split_31,P2_LOADED
+1419,background_06_02_02.wav_split_13,BACKGROUND_NOISE
+1420,WSU_P2_LOADED_BACK_AND_FORTH_2 copy.wav_split_14,P2_LOADED
+1421,goo2.wav_split_6,BACKGROUND_NOISE
+1422,WSU_P2_LOADED_BACK_AND_FORTH_2.wav_split_6,P2_LOADED
+1423,motorcycle.wav_split_33,BACKGROUND_NOISE
+1424,P1_up_and_down copy 2.wav_split_1,P1
+1425,WSU_P2_UNLOADED_UP_AND_DOWN copy.wav_split_22,P2_UNLOADED
+1426,canopy_heavy_wind.wav_split_5,BACKGROUND_NOISE
+1427,P1_stationary copy 2.wav_split_12,P1
+1428,WSU_P2_HIGH_LOADED_DOWN copy.wav_split_39,P2_LOADED
+1429,eric_survey.wav_split_32,BACKGROUND_NOISE
+1430,WSU_P2_LOADED_BACK_AND_FORTH.wav_split_26,P2_LOADED
+1431,WSU_P2_DOWN_UNLOADED copy 2.wav_split_5,P2_UNLOADED
+1432,foo.wav_split_38,BACKGROUND_NOISE
+1433,WSU_P2_UNLOADED_BACK_AND_FORTH copy 2.wav_split_9,P2_UNLOADED
+1434,background_06_02_02.wav_split_14,BACKGROUND_NOISE
+1435,WSU_P2_HIGH_LOADED_DOWN copy 2.wav_split_40,P2_LOADED
+1436,WSU_P2_HIGH_LOADED_DOWN.wav_split_36,P2_LOADED
+1437,WSU_P2_LOADED_BACK_AND_FORTH.wav_split_19,P2_LOADED
+1438,goo2.wav_split_12,BACKGROUND_NOISE
+1439,WSU_P2_UNLOADED_UP_AND_DOWN copy.wav_split_14,P2_UNLOADED
+1440,foo.wav_split_31,BACKGROUND_NOISE
+1441,motorcycle.wav_split_5,BACKGROUND_NOISE
+1442,WSU_P2_LOADED_BACK_AND_FORTH_2 copy.wav_split_22,P2_LOADED
+1443,WSU_P2_LOADED_BACK_AND_FORTH.wav_split_10,P2_LOADED
+1444,P1_up_and_down copy.wav_split_36,P1
+1445,WSU_P2_LOADED_BACK_AND_FORTH copy.wav_split_34,P2_LOADED
+1446,purrdue_P2_standing.wav_split_33,P2
+1447,P1_stationary copy 2.wav_split_24,P1
+1448,P1_stationary copy.wav_split_3,P1
+1449,WSU_P2_LOADED_up_and_down copy 2.wav_split_40,P2_LOADED
+1450,background_06_02_02.wav_split_22,BACKGROUND_NOISE
+1451,P1_up_and_down copy 2.wav_split_8,P1
+1452,WSU_P2_HIGH_LOADED_DOWN copy.wav_split_30,P2_LOADED
+1453,WSU_P2_UNLOADED_UP_AND_DOWN copy 2.wav_split_4,P2_UNLOADED
+1454,goo2.wav_split_24,BACKGROUND_NOISE
+1455,P1_stationary copy.wav_split_4,P1
+1456,P1_stationary copy 2.wav_split_23,P1
+1457,WSU_P2_LOADED_BACK_AND_FORTH copy.wav_split_33,P2_LOADED
+1458,purrdue_P2_standing.wav_split_34,P2
+1459,WSU_P2_HIGH_LOADED_DOWN.wav_split_38,P2_LOADED
+1460,WSU_P2_LOADED_BACK_AND_FORTH.wav_split_17,P2_LOADED
+1461,P1_up_and_down copy.wav_split_31,P1
+1462,WSU_P2_LOADED_BACK_AND_FORTH_2 copy.wav_split_25,P2_LOADED
+1463,WSU_P2_UNLOADED_UP_AND_DOWN copy.wav_split_13,P2_UNLOADED
+1464,foo.wav_split_36,BACKGROUND_NOISE
+1465,motorcycle.wav_split_2,BACKGROUND_NOISE
+1466,WSU_P2_UNLOADED_BACK_AND_FORTH copy 2.wav_split_7,P2_UNLOADED
+1467,WSU_P2_LOADED_BACK_AND_FORTH.wav_split_28,P2_LOADED
+1468,goo2.wav_split_23,BACKGROUND_NOISE
+1469,WSU_P2_HIGH_LOADED_DOWN copy.wav_split_37,P2_LOADED
+1470,WSU_P2_UNLOADED_UP_AND_DOWN copy 2.wav_split_3,P2_UNLOADED
+1471,WSU_P2_LOADED_BACK_AND_FORTH_2.wav_split_8,P2_LOADED
+1472,P1_up_and_down copy 2.wav_split_40,P1
+1473,background_06_02_02.wav_split_25,BACKGROUND_NOISE
+1474,goo2.wav_split_8,BACKGROUND_NOISE
+1475,WSU_P2_HIGH_LOADED_DOWN copy 2.wav_split_25,P2_LOADED
+1476,purdue_P2_unloaded_up_down copy.wav_split_29,P2_UNLOADED
+1477,in_air_iris_far_away.wav_split_5,BACKGROUND_NOISE
+1478,canopy_heavy_wind.wav_split_10,BACKGROUND_NOISE
+1479,P1_up_and_down copy 2.wav_split_14,P1
+1480,WSU_P2_LOADED_up_and_down copy 2.wav_split_13,P2_LOADED
+1481,purrdue_P2_standing copy 2.wav_split_34,P2
+1482,purdue_P2_unloaded_up_down copy 2.wav_split_4,P2_UNLOADED
+1483,WSU_P2_LOADED_BACK_AND_FORTH_2 copy 2.wav_split_22,P2_LOADED
+1484,WSU_P2_LOADED_BACK_AND_FORTH copy 2.wav_split_3,P2_LOADED
+1485,purdue_P2_unloaded_up_down copy.wav_split_16,P2_UNLOADED
+1486,WSU_P2_DOWN_UNLOADED copy.wav_split_32,P2_UNLOADED
+1487,train2.wav_split_20,BACKGROUND_NOISE
+1488,purrdue_P2_standing copy.wav_split_31,P2
+1489,WSU_P2_UNLOADED_UP_AND_DOWN copy 2.wav_split_22,P2_UNLOADED
+1490,WSU_P2_LOADED_up_and_down copy.wav_split_34,P2_LOADED
+1491,WSU_P2_LOADED_up_and_down copy 2.wav_split_14,P2_LOADED
+1492,P1_up_and_down copy 2.wav_split_13,P1
+1493,in_air_iris_far_away.wav_split_2,BACKGROUND_NOISE
+1494,canopy_heavy_wind.wav_split_17,BACKGROUND_NOISE
+1495,train2.wav_split_18,BACKGROUND_NOISE
+1496,WSU_P2_HIGH_LOADED_DOWN copy 2.wav_split_22,P2_LOADED
+1497,WSU_P2_LOADED_up_and_down copy.wav_split_33,P2_LOADED
+1498,WSU_P2_UNLOADED_UP_AND_DOWN copy.wav_split_40,P2_UNLOADED
+1499,purdue_P2_unloaded_up_down.wav_split_39,P2_UNLOADED
+1500,WSU_P2_UNLOADED_UP_AND_DOWN copy 2.wav_split_25,P2_UNLOADED
+1501,train.wav_split_9,BACKGROUND_NOISE
+1502,purrdue_P2_standing copy.wav_split_36,P2
+1503,WSU_P2_LOADED_BACK_AND_FORTH.wav_split_7,P2_LOADED
+1504,purdue_P2_unloaded_up_down copy.wav_split_11,P2_UNLOADED
+1505,WSU_P2_DOWN_UNLOADED copy.wav_split_35,P2_UNLOADED
+1506,train2.wav_split_27,BACKGROUND_NOISE
+1507,canopy_heavy_wind.wav_split_28,BACKGROUND_NOISE
+1508,WSU_P2_LOADED_BACK_AND_FORTH_2 copy 2.wav_split_25,P2_LOADED
+1509,WSU_P2_LOADED_BACK_AND_FORTH copy 2.wav_split_4,P2_LOADED
+1510,purrdue_P2_standing copy 2.wav_split_33,P2
+1511,purdue_P2_unloaded_up_down copy 2.wav_split_3,P2_UNLOADED
+1512,purdue_P2_unloaded_up_down.wav_split_30,P2_UNLOADED
+1513,P1_up_and_down copy 2.wav_split_25,P1
+1514,WSU_P2_LOADED_up_and_down copy 2.wav_split_22,P2_LOADED
+1515,background_06_02_02.wav_split_40,BACKGROUND_NOISE
+1516,canopy_heavy_wind.wav_split_21,BACKGROUND_NOISE
+1517,purdue_P2_unloaded_up_down copy.wav_split_18,P2_UNLOADED
+1518,WSU_P2_HIGH_LOADED_DOWN copy 2.wav_split_14,P2_LOADED
+1519,WSU_P2_LOADED_BACK_AND_FORTH_2 copy.wav_split_40,P2_LOADED
+1520,background_in_air_iris_3.wav_split_35,BACKGROUND_NOISE
+1521,WSU_P2_UNLOADED_UP_AND_DOWN copy 2.wav_split_13,P2_UNLOADED
+1522,train2.wav_split_11,BACKGROUND_NOISE
+1523,purdue_P2_unloaded_up_down copy.wav_split_27,P2_UNLOADED
+1524,WSU_P2_LOADED_BACK_AND_FORTH_2 copy 2.wav_split_13,P2_LOADED
+1525,background_06_02_04.wav_split_2,BACKGROUND_NOISE
+1526,train2.wav_split_29,BACKGROUND_NOISE
+1527,WSU_P2_HIGH_LOADED_DOWN copy 2.wav_split_13,P2_LOADED
+1528,canopy_heavy_wind.wav_split_26,BACKGROUND_NOISE
+1529,purrdue_P2_standing copy.wav_split_38,P2
+1530,WSU_P2_LOADED_BACK_AND_FORTH.wav_split_9,P2_LOADED
+1531,WSU_P2_LOADED_up_and_down copy 2.wav_split_25,P2_LOADED
+1532,P1_up_and_down copy 2.wav_split_22,P1
+1533,purdue_P2_unloaded_up_down.wav_split_37,P2_UNLOADED
+1534,train.wav_split_7,BACKGROUND_NOISE
+1535,background_06_02_04.wav_split_5,BACKGROUND_NOISE
+1536,WSU_P2_LOADED_BACK_AND_FORTH_2 copy 2.wav_split_14,P2_LOADED
+1537,canopy_heavy_wind.wav_split_19,BACKGROUND_NOISE
+1538,train2.wav_split_16,BACKGROUND_NOISE
+1539,purdue_P2_unloaded_up_down copy.wav_split_20,P2_UNLOADED
+1540,WSU_P2_UNLOADED_UP_AND_DOWN copy 2.wav_split_14,P2_UNLOADED
+1541,background_in_air_iris_3.wav_split_32,BACKGROUND_NOISE
+1542,P1_stationary copy 2.wav_split_7,P1
+1543,purrdue_P2_standing copy 2.wav_split_20,P2
+1544,train2.wav_split_34,BACKGROUND_NOISE
+1545,WSU_P2_DOWN_UNLOADED copy.wav_split_26,P2_UNLOADED
+1546,WSU_P2_HIGH_LOADED_DOWN copy.wav_split_8,P2_LOADED
+1547,WSU_P2_LOADED_BACK_AND_FORTH_2 copy 2.wav_split_36,P2_LOADED
+1548,purrdue_P2_standing copy.wav_split_25,P2
+1549,WSU_P2_LOADED_up_and_down copy 2.wav_split_38,P2_LOADED
+1550,background_in_air_iris_3.wav_split_10,BACKGROUND_NOISE
+1551,WSU_P2_LOADED_up_and_down copy.wav_split_20,P2_LOADED
+1552,WSU_P2_UNLOADED_UP_AND_DOWN copy 2.wav_split_36,P2_UNLOADED
+1553,WSU_P2_DOWN_UNLOADED copy.wav_split_19,P2_UNLOADED
+1554,WSU_P2_HIGH_LOADED_DOWN copy 2.wav_split_31,P2_LOADED
+1555,purdue_P2_unloaded_up_down.wav_split_15,P2_UNLOADED
+1556,background_06_02_03.wav_split_8,BACKGROUND_NOISE
+1557,WSU_P2_UNLOADED_UP_AND_DOWN copy 2.wav_split_31,P2_UNLOADED
+1558,background_in_air_iris_3.wav_split_17,BACKGROUND_NOISE
+1559,WSU_P2_LOADED_up_and_down copy.wav_split_27,P2_LOADED
+1560,P1_up_and_down copy 2.wav_split_38,P1
+1561,purrdue_P2_standing copy.wav_split_22,P2
+1562,WSU_P2_LOADED_BACK_AND_FORTH_2 copy 2.wav_split_31,P2_LOADED
+1563,train2.wav_split_33,BACKGROUND_NOISE
+1564,WSU_P2_DOWN_UNLOADED copy.wav_split_21,P2_UNLOADED
+1565,purrdue_P2_standing copy 2.wav_split_27,P2
+1566,WSU_P2_LOADED_up_and_down copy.wav_split_18,P2_LOADED
+1567,background_in_air_iris_3.wav_split_28,BACKGROUND_NOISE
+1568,purdue_P2_unloaded_up_down.wav_split_12,P2_UNLOADED
+1569,purrdue_P2_standing copy 2.wav_split_18,P2
+1570,WSU_P2_LOADED_BACK_AND_FORTH_2 copy.wav_split_8,P2_LOADED
+1571,WSU_P2_HIGH_LOADED_DOWN.wav_split_40,P2_LOADED
+1572,WSU_P2_HIGH_LOADED_DOWN copy 2.wav_split_36,P2_LOADED
+1573,purrdue_P2_standing copy.wav_split_14,P2
+1574,WSU_P2_LOADED_up_and_down copy.wav_split_11,P2_LOADED
+1575,background_in_air_iris_3.wav_split_21,BACKGROUND_NOISE
+1576,background_06_02_03.wav_split_6,BACKGROUND_NOISE
+1577,WSU_P2_LOADED_BACK_AND_FORTH_2 copy.wav_split_1,P2_LOADED
+1578,purrdue_P2_standing copy 2.wav_split_11,P2
+1579,P1_up_and_down copy.wav_split_40,P1
+1580,WSU_P2_DOWN_UNLOADED copy.wav_split_17,P2_UNLOADED
+1581,purdue_P2_unloaded_up_down copy.wav_split_33,P2_UNLOADED
+1582,P1_up_and_down copy 2.wav_split_31,P1
+1583,WSU_P2_UNLOADED_UP_AND_DOWN copy 2.wav_split_38,P2_UNLOADED
+1584,purdue_P2_unloaded_up_down.wav_split_24,P2_UNLOADED
+1585,WSU_P2_LOADED_up_and_down copy 2.wav_split_36,P2_LOADED
+1586,gator.wav_split_3,BACKGROUND_NOISE
+1587,WSU_P2_DOWN_UNLOADED copy.wav_split_28,P2_UNLOADED
+1588,WSU_P2_HIGH_LOADED_DOWN copy.wav_split_6,P2_LOADED
+1589,WSU_P2_LOADED_BACK_AND_FORTH_2 copy 2.wav_split_38,P2_LOADED
+1590,canopy_heavy_wind.wav_split_35,BACKGROUND_NOISE
+1591,P1_up_and_down copy.wav_split_3,P1
+1592,P1_stationary copy 2.wav_split_9,P1
+1593,WSU_P2_DOWN_UNLOADED copy.wav_split_10,P2_UNLOADED
+1594,purdue_P2_unloaded_up_down copy.wav_split_34,P2_UNLOADED
+1595,WSU_P2_HIGH_LOADED_DOWN copy 2.wav_split_38,P2_LOADED
+1596,purrdue_P2_standing copy 2.wav_split_16,P2
+1597,WSU_P2_LOADED_BACK_AND_FORTH_2 copy.wav_split_6,P2_LOADED
+1598,WSU_P2_LOADED_up_and_down copy.wav_split_16,P2_LOADED
+1599,background_in_air_iris_3.wav_split_26,BACKGROUND_NOISE
+1600,background_06_02_03.wav_split_1,BACKGROUND_NOISE
+1601,foo.wav_split_40,BACKGROUND_NOISE
+1602,purrdue_P2_standing copy.wav_split_13,P2
+1603,P1_up_and_down copy.wav_split_4,P1
+1604,purrdue_P2_standing copy 2.wav_split_29,P2
+1605,WSU_P2_HIGH_LOADED_DOWN copy.wav_split_1,P2_LOADED
+1606,canopy_heavy_wind.wav_split_32,BACKGROUND_NOISE
+1607,gator.wav_split_4,BACKGROUND_NOISE
+1608,WSU_P2_LOADED_up_and_down copy 2.wav_split_31,P2_LOADED
+1609,purdue_P2_unloaded_up_down.wav_split_23,P2_UNLOADED
+1610,background_in_air_iris_3.wav_split_19,BACKGROUND_NOISE
+1611,P1_up_and_down copy 2.wav_split_36,P1
+1612,WSU_P2_LOADED_up_and_down copy.wav_split_29,P2_LOADED
+1613,WSU_P2_HIGH_LOADED_DOWN copy.wav_split_15,P2_LOADED
+1614,WSU_P2_UNLOADED_UP_AND_DOWN copy.wav_split_4,P2_UNLOADED
+1615,background_eric_doing_stuff.wav_split_8,BACKGROUND_NOISE
+1616,WSU_P2_HIGH_LOADED_DOWN.wav_split_25,P2_LOADED
+1617,purrdue_P2_standing.wav_split_29,P2
+1618,WSU_P2_LOADED_BACK_AND_FORTH_2 copy.wav_split_38,P2_LOADED
+1619,background_in_air_iris_3.wav_split_2,BACKGROUND_NOISE
+1620,eric_survey.wav_split_21,BACKGROUND_NOISE
+1621,WSU_P2_LOADED_BACK_AND_FORTH.wav_split_35,P2_LOADED
+1622,P1_up_and_down copy.wav_split_13,P1
+1623,WSU_P2_LOADED_BACK_AND_FORTH copy.wav_split_11,P2_LOADED
+1624,purrdue_P2_standing.wav_split_16,P2
+1625,eric_survey.wav_split_1,BACKGROUND_NOISE
+1626,purrdue_P2_standing copy 2.wav_split_7,P2
+1627,motorcycle.wav_split_20,BACKGROUND_NOISE
+1628,WSU_P2_DOWN_UNLOADED copy.wav_split_1,P2_UNLOADED
+1629,foo.wav_split_14,BACKGROUND_NOISE
+1630,WSU_P2_UNLOADED_UP_AND_DOWN copy.wav_split_31,P2_UNLOADED
+1631,background_06_02_02.wav_split_38,BACKGROUND_NOISE
+1632,background_in_air_iris_3.wav_split_5,BACKGROUND_NOISE
+1633,motorcycle.wav_split_18,BACKGROUND_NOISE
+1634,train2.wav_split_7,BACKGROUND_NOISE
+1635,eric_survey.wav_split_19,BACKGROUND_NOISE
+1636,WSU_P2_HIGH_LOADED_DOWN.wav_split_22,P2_LOADED
+1637,WSU_P2_LOADED_BACK_AND_FORTH copy.wav_split_29,P2_LOADED
+1638,P1_stationary copy 2.wav_split_39,P1
+1639,WSU_P2_HIGH_LOADED_DOWN copy.wav_split_12,P2_LOADED
+1640,WSU_P2_UNLOADED_UP_AND_DOWN copy.wav_split_3,P2_UNLOADED
+1641,purrdue_P2_standing copy.wav_split_40,P2
+1642,foo.wav_split_13,BACKGROUND_NOISE
+1643,WSU_P2_UNLOADED_UP_AND_DOWN copy.wav_split_36,P2_UNLOADED
+1644,motorcycle.wav_split_27,BACKGROUND_NOISE
+1645,WSU_P2_DOWN_UNLOADED copy.wav_split_6,P2_UNLOADED
+1646,purrdue_P2_standing.wav_split_9,P2
+1647,goo2.wav_split_39,BACKGROUND_NOISE
+1648,eric_survey.wav_split_6,BACKGROUND_NOISE
+1649,WSU_P2_LOADED_BACK_AND_FORTH copy.wav_split_16,P2_LOADED
+1650,purrdue_P2_standing.wav_split_11,P2
+1651,eric_survey.wav_split_26,BACKGROUND_NOISE
+1652,WSU_P2_LOADED_BACK_AND_FORTH.wav_split_32,P2_LOADED
+1653,P1_up_and_down copy.wav_split_14,P1
+1654,background_06_02_02.wav_split_36,BACKGROUND_NOISE
+1655,goo2.wav_split_30,BACKGROUND_NOISE
+1656,purrdue_P2_standing copy 2.wav_split_9,P2
+1657,WSU_P2_HIGH_LOADED_DOWN copy.wav_split_24,P2_LOADED
+1658,purrdue_P2_standing.wav_split_18,P2
+1659,WSU_P2_HIGH_LOADED_DOWN.wav_split_14,P2_LOADED
+1660,foo.wav_split_25,BACKGROUND_NOISE
+1661,motorcycle.wav_split_11,BACKGROUND_NOISE
+1662,WSU_P2_LOADED_BACK_AND_FORTH_2 copy.wav_split_36,P2_LOADED
+1663,WSU_P2_LOADED_BACK_AND_FORTH copy.wav_split_20,P2_LOADED
+1664,purrdue_P2_standing.wav_split_27,P2
+1665,P1_up_and_down copy.wav_split_22,P1
+1666,eric_survey.wav_split_10,BACKGROUND_NOISE
+1667,P1_stationary copy 2.wav_split_30,P1
+1668,background_eric_doing_stuff.wav_split_6,BACKGROUND_NOISE
+1669,WSU_P2_LOADED_BACK_AND_FORTH copy.wav_split_18,P2_LOADED
+1670,WSU_P2_HIGH_LOADED_DOWN.wav_split_13,P2_LOADED
+1671,eric_survey.wav_split_28,BACKGROUND_NOISE
+1672,WSU_P2_HIGH_LOADED_DOWN copy.wav_split_23,P2_LOADED
+1673,purrdue_P2_standing.wav_split_7,P2
+1674,goo2.wav_split_37,BACKGROUND_NOISE
+1675,eric_survey.wav_split_8,BACKGROUND_NOISE
+1676,WSU_P2_UNLOADED_UP_AND_DOWN copy.wav_split_38,P2_UNLOADED
+1677,motorcycle.wav_split_29,BACKGROUND_NOISE
+1678,WSU_P2_DOWN_UNLOADED copy.wav_split_8,P2_UNLOADED
+1679,background_06_02_02.wav_split_31,BACKGROUND_NOISE
+1680,P1_stationary copy 2.wav_split_37,P1
+1681,background_eric_doing_stuff.wav_split_1,BACKGROUND_NOISE
+1682,P1_up_and_down copy.wav_split_25,P1
+1683,eric_survey.wav_split_17,BACKGROUND_NOISE
+1684,WSU_P2_LOADED_BACK_AND_FORTH copy.wav_split_27,P2_LOADED
+1685,purrdue_P2_standing.wav_split_20,P2
+1686,train2.wav_split_9,BACKGROUND_NOISE
+1687,WSU_P2_LOADED_BACK_AND_FORTH_2 copy.wav_split_31,P2_LOADED
+1688,motorcycle.wav_split_16,BACKGROUND_NOISE
+1689,foo.wav_split_22,BACKGROUND_NOISE
+1690,WSU_P2_LOADED_up_and_down copy.wav_split_17,P2_LOADED
+1691,background_in_air_iris_3.wav_split_27,BACKGROUND_NOISE
+1692,purrdue_P2_standing copy.wav_split_12,P2
+1693,WSU_P2_DOWN_UNLOADED copy.wav_split_11,P2_UNLOADED
+1694,purdue_P2_unloaded_up_down copy.wav_split_35,P2_UNLOADED
+1695,WSU_P2_HIGH_LOADED_DOWN copy 2.wav_split_39,P2_LOADED
+1696,WSU_P2_LOADED_BACK_AND_FORTH_2 copy.wav_split_7,P2_LOADED
+1697,purrdue_P2_standing copy 2.wav_split_17,P2
+1698,WSU_P2_LOADED_up_and_down copy 2.wav_split_30,P2_LOADED
+1699,background_in_air_iris_3.wav_split_18,BACKGROUND_NOISE
+1700,WSU_P2_LOADED_up_and_down copy.wav_split_28,P2_LOADED
+1701,P1_up_and_down copy 2.wav_split_37,P1
+1702,purdue_P2_unloaded_up_down.wav_split_22,P2_UNLOADED
+1703,P1_up_and_down copy.wav_split_5,P1
+1704,WSU_P2_HIGH_LOADED_DOWN copy.wav_split_40,P2_LOADED
+1705,purrdue_P2_standing copy 2.wav_split_28,P2
+1706,gator.wav_split_5,BACKGROUND_NOISE
+1707,canopy_heavy_wind.wav_split_33,BACKGROUND_NOISE
+1708,purrdue_P2_standing copy 2.wav_split_10,P2
+1709,WSU_P2_DOWN_UNLOADED copy.wav_split_16,P2_UNLOADED
+1710,purdue_P2_unloaded_up_down copy.wav_split_32,P2_UNLOADED
+1711,purrdue_P2_standing copy.wav_split_15,P2
+1712,WSU_P2_LOADED_up_and_down copy.wav_split_10,P2_LOADED
+1713,background_06_02_03.wav_split_7,BACKGROUND_NOISE
+1714,background_in_air_iris_3.wav_split_20,BACKGROUND_NOISE
+1715,WSU_P2_LOADED_BACK_AND_FORTH_2 copy 2.wav_split_39,P2_LOADED
+1716,WSU_P2_HIGH_LOADED_DOWN copy.wav_split_7,P2_LOADED
+1717,canopy_heavy_wind.wav_split_34,BACKGROUND_NOISE
+1718,gator.wav_split_2,BACKGROUND_NOISE
+1719,WSU_P2_DOWN_UNLOADED copy.wav_split_29,P2_UNLOADED
+1720,P1_stationary copy 2.wav_split_8,P1
+1721,P1_up_and_down copy.wav_split_2,P1
+1722,WSU_P2_UNLOADED_UP_AND_DOWN copy 2.wav_split_39,P2_UNLOADED
+1723,purdue_P2_unloaded_up_down.wav_split_25,P2_UNLOADED
+1724,P1_up_and_down copy 2.wav_split_30,P1
+1725,WSU_P2_LOADED_up_and_down copy 2.wav_split_37,P2_LOADED
+1726,train2.wav_split_32,BACKGROUND_NOISE
+1727,WSU_P2_DOWN_UNLOADED copy.wav_split_20,P2_UNLOADED
+1728,WSU_P2_LOADED_BACK_AND_FORTH_2 copy 2.wav_split_30,P2_LOADED
+1729,P1_stationary copy 2.wav_split_1,P1
+1730,purrdue_P2_standing copy 2.wav_split_26,P2
+1731,background_in_air_iris_3.wav_split_16,BACKGROUND_NOISE
+1732,P1_up_and_down copy 2.wav_split_39,P1
+1733,WSU_P2_LOADED_up_and_down copy.wav_split_26,P2_LOADED
+1734,WSU_P2_UNLOADED_UP_AND_DOWN copy 2.wav_split_30,P2_UNLOADED
+1735,purrdue_P2_standing copy.wav_split_23,P2
+1736,WSU_P2_LOADED_BACK_AND_FORTH_2 copy.wav_split_9,P2_LOADED
+1737,purrdue_P2_standing copy 2.wav_split_19,P2
+1738,WSU_P2_HIGH_LOADED_DOWN copy 2.wav_split_37,P2_LOADED
+1739,purdue_P2_unloaded_up_down.wav_split_13,P2_UNLOADED
+1740,WSU_P2_LOADED_up_and_down copy.wav_split_19,P2_LOADED
+1741,background_in_air_iris_3.wav_split_29,BACKGROUND_NOISE
+1742,WSU_P2_LOADED_up_and_down copy 2.wav_split_39,P2_LOADED
+1743,purrdue_P2_standing copy.wav_split_24,P2
+1744,WSU_P2_UNLOADED_UP_AND_DOWN copy 2.wav_split_37,P2_UNLOADED
+1745,background_in_air_iris_3.wav_split_11,BACKGROUND_NOISE
+1746,WSU_P2_LOADED_up_and_down copy.wav_split_21,P2_LOADED
+1747,P1_stationary copy 2.wav_split_6,P1
+1748,purrdue_P2_standing copy 2.wav_split_21,P2
+1749,WSU_P2_LOADED_BACK_AND_FORTH_2 copy 2.wav_split_37,P2_LOADED
+1750,WSU_P2_HIGH_LOADED_DOWN copy.wav_split_9,P2_LOADED
+1751,train2.wav_split_35,BACKGROUND_NOISE
+1752,WSU_P2_DOWN_UNLOADED copy.wav_split_27,P2_UNLOADED
+1753,background_06_02_03.wav_split_9,BACKGROUND_NOISE
+1754,purdue_P2_unloaded_up_down.wav_split_14,P2_UNLOADED
+1755,WSU_P2_DOWN_UNLOADED copy.wav_split_18,P2_UNLOADED
+1756,WSU_P2_HIGH_LOADED_DOWN copy 2.wav_split_30,P2_LOADED
+1757,WSU_P2_DOWN_UNLOADED copy.wav_split_9,P2_UNLOADED
+1758,motorcycle.wav_split_28,BACKGROUND_NOISE
+1759,purdue_P2_unloaded_up_down.wav_split_40,P2_UNLOADED
+1760,WSU_P2_UNLOADED_UP_AND_DOWN copy.wav_split_39,P2_UNLOADED
+1761,background_06_02_02.wav_split_30,BACKGROUND_NOISE
+1762,eric_survey.wav_split_29,BACKGROUND_NOISE
+1763,WSU_P2_LOADED_BACK_AND_FORTH copy.wav_split_19,P2_LOADED
+1764,WSU_P2_HIGH_LOADED_DOWN.wav_split_12,P2_LOADED
+1765,eric_survey.wav_split_9,BACKGROUND_NOISE
+1766,goo2.wav_split_36,BACKGROUND_NOISE
+1767,purrdue_P2_standing.wav_split_6,P2
+1768,WSU_P2_HIGH_LOADED_DOWN copy.wav_split_22,P2_LOADED
+1769,train2.wav_split_8,BACKGROUND_NOISE
+1770,WSU_P2_LOADED_BACK_AND_FORTH_2 copy.wav_split_30,P2_LOADED
+1771,foo.wav_split_23,BACKGROUND_NOISE
+1772,motorcycle.wav_split_17,BACKGROUND_NOISE
+1773,P1_stationary copy 2.wav_split_36,P1
+1774,purrdue_P2_standing.wav_split_21,P2
+1775,WSU_P2_LOADED_BACK_AND_FORTH copy.wav_split_26,P2_LOADED
+1776,P1_up_and_down copy.wav_split_24,P1
+1777,eric_survey.wav_split_16,BACKGROUND_NOISE
+1778,purrdue_P2_standing.wav_split_1,P2
+1779,WSU_P2_HIGH_LOADED_DOWN copy.wav_split_25,P2_LOADED
+1780,purrdue_P2_standing copy 2.wav_split_8,P2
+1781,goo2.wav_split_31,BACKGROUND_NOISE
+1782,purrdue_P2_standing.wav_split_19,P2
+1783,WSU_P2_HIGH_LOADED_DOWN.wav_split_15,P2_LOADED
+1784,background_06_02_02.wav_split_37,BACKGROUND_NOISE
+1785,P1_up_and_down copy.wav_split_23,P1
+1786,eric_survey.wav_split_11,BACKGROUND_NOISE
+1787,purrdue_P2_standing.wav_split_26,P2
+1788,WSU_P2_LOADED_BACK_AND_FORTH copy.wav_split_21,P2_LOADED
+1789,background_eric_doing_stuff.wav_split_7,BACKGROUND_NOISE
+1790,P1_stationary copy 2.wav_split_31,P1
+1791,motorcycle.wav_split_10,BACKGROUND_NOISE
+1792,foo.wav_split_24,BACKGROUND_NOISE
+1793,WSU_P2_LOADED_BACK_AND_FORTH_2 copy.wav_split_37,P2_LOADED
+1794,WSU_P2_HIGH_LOADED_DOWN.wav_split_23,P2_LOADED
+1795,WSU_P2_LOADED_BACK_AND_FORTH copy.wav_split_28,P2_LOADED
+1796,eric_survey.wav_split_18,BACKGROUND_NOISE
+1797,WSU_P2_HIGH_LOADED_DOWN copy.wav_split_13,P2_LOADED
+1798,WSU_P2_UNLOADED_UP_AND_DOWN copy.wav_split_2,P2_UNLOADED
+1799,P1_stationary copy 2.wav_split_38,P1
+1800,background_in_air_iris_3.wav_split_4,BACKGROUND_NOISE
+1801,motorcycle.wav_split_19,BACKGROUND_NOISE
+1802,train2.wav_split_6,BACKGROUND_NOISE
+1803,eric_survey.wav_split_7,BACKGROUND_NOISE
+1804,purrdue_P2_standing copy 2.wav_split_1,P2
+1805,goo2.wav_split_38,BACKGROUND_NOISE
+1806,purrdue_P2_standing.wav_split_8,P2
+1807,eric_survey.wav_split_27,BACKGROUND_NOISE
+1808,WSU_P2_LOADED_BACK_AND_FORTH.wav_split_33,P2_LOADED
+1809,P1_up_and_down copy.wav_split_15,P1
+1810,purrdue_P2_standing.wav_split_10,P2
+1811,WSU_P2_LOADED_BACK_AND_FORTH copy.wav_split_17,P2_LOADED
+1812,WSU_P2_DOWN_UNLOADED copy.wav_split_7,P2_UNLOADED
+1813,motorcycle.wav_split_26,BACKGROUND_NOISE
+1814,foo.wav_split_12,BACKGROUND_NOISE
+1815,WSU_P2_UNLOADED_UP_AND_DOWN copy.wav_split_37,P2_UNLOADED
+1816,train2.wav_split_1,BACKGROUND_NOISE
+1817,WSU_P2_LOADED_BACK_AND_FORTH_2 copy.wav_split_39,P2_LOADED
+1818,background_in_air_iris_3.wav_split_3,BACKGROUND_NOISE
+1819,background_eric_doing_stuff.wav_split_9,BACKGROUND_NOISE
+1820,WSU_P2_HIGH_LOADED_DOWN copy.wav_split_14,P2_LOADED
+1821,WSU_P2_UNLOADED_UP_AND_DOWN copy.wav_split_5,P2_UNLOADED
+1822,WSU_P2_HIGH_LOADED_DOWN.wav_split_24,P2_LOADED
+1823,purrdue_P2_standing.wav_split_28,P2
+1824,foo.wav_split_15,BACKGROUND_NOISE
+1825,WSU_P2_UNLOADED_UP_AND_DOWN copy.wav_split_30,P2_UNLOADED
+1826,motorcycle.wav_split_21,BACKGROUND_NOISE
+1827,background_06_02_02.wav_split_39,BACKGROUND_NOISE
+1828,purrdue_P2_standing.wav_split_17,P2
+1829,WSU_P2_LOADED_BACK_AND_FORTH copy.wav_split_10,P2_LOADED
+1830,eric_survey.wav_split_20,BACKGROUND_NOISE
+1831,WSU_P2_LOADED_BACK_AND_FORTH.wav_split_34,P2_LOADED
+1832,P1_up_and_down copy.wav_split_12,P1
+1833,purrdue_P2_standing copy 2.wav_split_6,P2
+1834,WSU_P2_UNLOADED_BACK_AND_FORTH copy.wav_split_27,P2_UNLOADED
+1835,in_air_iris_far_away.wav_split_26,BACKGROUND_NOISE
+1836,WSU_P2_DOWN_UNLOADED.wav_split_39,P2_UNLOADED
+1837,background_in_air_iris.wav_split_1,BACKGROUND_NOISE
+1838,background_06_02_04.wav_split_38,BACKGROUND_NOISE
+1839,P1_up_and_down.wav_split_25,P1
+1840,background_in_air_iris.wav_split_13,BACKGROUND_NOISE
+1841,P1_stationary copy.wav_split_15,P1
+1842,gator.wav_split_13,BACKGROUND_NOISE
+1843,WSU_P2_DOWN_UNLOADED.wav_split_3,P2_UNLOADED
+1844,background_06_02_01.wav_split_11,BACKGROUND_NOISE
+1845,purdue_P2_unloaded_up_down.wav_split_6,P2_UNLOADED
+1846,train.wav_split_31,BACKGROUND_NOISE
+1847,WSU_P2_UNLOADED_BACK_AND_FORTH copy.wav_split_18,P2_UNLOADED
+1848,in_air_iris_far_away.wav_split_19,BACKGROUND_NOISE
+1849,background_06_02_02.wav_split_3,BACKGROUND_NOISE
+1850,WSU_P2_LOADED_up_and_down.wav_split_23,P2_LOADED
+1851,P1_stationary.wav_split_24,P1
+1852,WSU_P2_UNLOADED_UP_AND_DOWN.wav_split_24,P2_UNLOADED
+1853,gator.wav_split_14,BACKGROUND_NOISE
+1854,P1_up_and_down.wav_split_22,P1
+1855,background_in_air_iris.wav_split_14,BACKGROUND_NOISE
+1856,P1_stationary copy.wav_split_12,P1
+1857,background_in_air_iris.wav_split_6,BACKGROUND_NOISE
+1858,background_06_02_03.wav_split_38,BACKGROUND_NOISE
+1859,background_06_02_01.wav_split_29,BACKGROUND_NOISE
+1860,WSU_P2_UNLOADED_BACK_AND_FORTH copy.wav_split_20,P2_UNLOADED
+1861,in_air_iris_far_away.wav_split_21,BACKGROUND_NOISE
+1862,background_06_02_02.wav_split_4,BACKGROUND_NOISE
+1863,WSU_P2_LOADED_up_and_down.wav_split_24,P2_LOADED
+1864,P1_stationary.wav_split_23,P1
+1865,WSU_P2_UNLOADED_UP_AND_DOWN.wav_split_23,P2_UNLOADED
+1866,purdue_P2_unloaded_up_down.wav_split_1,P2_UNLOADED
+1867,background_06_02_01.wav_split_16,BACKGROUND_NOISE
+1868,train.wav_split_36,BACKGROUND_NOISE
+1869,WSU_P2_DOWN_UNLOADED.wav_split_4,P2_UNLOADED
+1870,P1_stationary.wav_split_8,P1
+1871,P1_up_and_down.wav_split_14,P1
+1872,P1_stationary copy.wav_split_24,P1
+1873,background_in_air_iris.wav_split_22,BACKGROUND_NOISE
+1874,gator.wav_split_22,BACKGROUND_NOISE
+1875,purdue_P2_unloaded_up_down.wav_split_8,P2_UNLOADED
+1876,WSU_P2_UNLOADED_BACK_AND_FORTH copy.wav_split_16,P2_UNLOADED
+1877,in_air_iris_far_away.wav_split_17,BACKGROUND_NOISE
+1878,P1_stationary.wav_split_1,P1
+1879,background_06_02_04.wav_split_36,BACKGROUND_NOISE
+1880,WSU_P2_LOADED_up_and_down.wav_split_12,P2_LOADED
+1881,P1_stationary.wav_split_15,P1
+1882,WSU_P2_UNLOADED_UP_AND_DOWN.wav_split_15,P2_UNLOADED
+1883,background_06_02_03.wav_split_31,BACKGROUND_NOISE
+1884,WSU_P2_DOWN_UNLOADED.wav_split_37,P2_UNLOADED
+1885,WSU_P2_UNLOADED_BACK_AND_FORTH copy.wav_split_29,P2_UNLOADED
+1886,in_air_iris_far_away.wav_split_28,BACKGROUND_NOISE
+1887,WSU_P2_UNLOADED_BACK_AND_FORTH.wav_split_5,P2_UNLOADED
+1888,background_06_02_01.wav_split_20,BACKGROUND_NOISE
+1889,P1_stationary.wav_split_6,P1
+1890,WSU_P2_UNLOADED_BACK_AND_FORTH copy.wav_split_11,P2_UNLOADED
+1891,in_air_iris_far_away.wav_split_10,BACKGROUND_NOISE
+1892,background_06_02_01.wav_split_18,BACKGROUND_NOISE
+1893,train.wav_split_38,BACKGROUND_NOISE
+1894,gator.wav_split_25,BACKGROUND_NOISE
+1895,P1_up_and_down.wav_split_13,P1
+1896,P1_stationary copy.wav_split_23,P1
+1897,background_in_air_iris.wav_split_25,BACKGROUND_NOISE
+1898,background_06_02_01.wav_split_27,BACKGROUND_NOISE
+1899,WSU_P2_UNLOADED_BACK_AND_FORTH.wav_split_2,P2_UNLOADED
+1900,WSU_P2_DOWN_UNLOADED.wav_split_30,P2_UNLOADED
+1901,background_06_02_03.wav_split_36,BACKGROUND_NOISE
+1902,WSU_P2_LOADED_up_and_down.wav_split_15,P2_LOADED
+1903,P1_stationary.wav_split_12,P1
+1904,WSU_P2_UNLOADED_UP_AND_DOWN.wav_split_12,P2_UNLOADED
+1905,background_06_02_04.wav_split_31,BACKGROUND_NOISE
+1906,background_in_air_iris.wav_split_8,BACKGROUND_NOISE
+1907,background_in_air_iris_2.wav_split_28,BACKGROUND_NOISE
+1908,P1_up_and_down.wav_split_6,P1
+1909,background_in_air_iris_2.wav_split_9,BACKGROUND_NOISE
+1910,background_eric_doing_stuff.wav_split_38,BACKGROUND_NOISE
+1911,WSU_P2_UNLOADED_BACK_AND_FORTH.wav_split_34,P2_UNLOADED
+1912,background_in_air_iris_2.wav_split_17,BACKGROUND_NOISE
+1913,WSU_P2_LOADED_BACK_AND_FORTH_2.wav_split_24,P2_LOADED
+1914,canopy_up_01.wav_split_38,BACKGROUND_NOISE
+1915,WSU_P2_LOADED_BACK_AND_FORTH copy 2.wav_split_12,P2_LOADED
+1916,in_air_iris_over_home_base.wav_split_34,BACKGROUND_NOISE
+1917,WSU_P2_DOWN_UNLOADED copy 2.wav_split_23,P2_UNLOADED
+1918,WSU_P2_UNLOADED_BACK_AND_FORTH copy 2.wav_split_15,P2_UNLOADED
+1919,WSU_P2_HIGH_LOADED_DOWN.wav_split_4,P2_LOADED
+1920,P1_up_and_down.wav_split_1,P1
+1921,WSU_P2_DOWN_UNLOADED copy 2.wav_split_24,P2_UNLOADED
+1922,WSU_P2_UNLOADED_BACK_AND_FORTH copy 2.wav_split_12,P2_UNLOADED
+1923,WSU_P2_HIGH_LOADED_DOWN.wav_split_3,P2_LOADED
+1924,in_air_iris_over_home_base.wav_split_33,BACKGROUND_NOISE
+1925,P1_up_and_down.wav_split_40,P1
+1926,WSU_P2_LOADED_BACK_AND_FORTH copy 2.wav_split_15,P2_LOADED
+1927,WSU_P2_UNLOADED_BACK_AND_FORTH copy.wav_split_9,P2_UNLOADED
+1928,WSU_P2_LOADED_BACK_AND_FORTH_2.wav_split_23,P2_LOADED
+1929,background_in_air_iris_2.wav_split_10,BACKGROUND_NOISE
+1930,WSU_P2_LOADED_BACK_AND_FORTH copy.wav_split_7,P2_LOADED
+1931,WSU_P2_UNLOADED_BACK_AND_FORTH.wav_split_33,P2_UNLOADED
+1932,canopy_up_01.wav_split_36,BACKGROUND_NOISE
+1933,background_in_air_iris_2.wav_split_19,BACKGROUND_NOISE
+1934,gator.wav_split_40,BACKGROUND_NOISE
+1935,background_eric_doing_stuff.wav_split_36,BACKGROUND_NOISE
+1936,background_in_air_iris_2.wav_split_7,BACKGROUND_NOISE
+1937,WSU_P2_UNLOADED_BACK_AND_FORTH copy 2.wav_split_24,P2_UNLOADED
+1938,WSU_P2_DOWN_UNLOADED copy 2.wav_split_12,P2_UNLOADED
+1939,background_in_air_iris.wav_split_40,BACKGROUND_NOISE
+1940,purdue_P2_unloaded_up_down copy 2.wav_split_34,P2_UNLOADED
+1941,P1_up_and_down.wav_split_8,P1
+1942,WSU_P2_LOADED_BACK_AND_FORTH copy 2.wav_split_23,P2_LOADED
+1943,WSU_P2_LOADED_BACK_AND_FORTH_2.wav_split_15,P2_LOADED
+1944,background_in_air_iris_2.wav_split_26,BACKGROUND_NOISE
+1945,WSU_P2_LOADED_BACK_AND_FORTH copy.wav_split_9,P2_LOADED
+1946,WSU_P2_UNLOADED_BACK_AND_FORTH copy.wav_split_7,P2_UNLOADED
+1947,canopy_up_01.wav_split_31,BACKGROUND_NOISE
+1948,background_in_air_iris_2.wav_split_21,BACKGROUND_NOISE
+1949,WSU_P2_LOADED_BACK_AND_FORTH_2.wav_split_12,P2_LOADED
+1950,WSU_P2_LOADED_BACK_AND_FORTH copy 2.wav_split_24,P2_LOADED
+1951,purdue_P2_unloaded_up_down copy 2.wav_split_33,P2_UNLOADED
+1952,WSU_P2_UNLOADED_BACK_AND_FORTH copy 2.wav_split_23,P2_UNLOADED
+1953,WSU_P2_DOWN_UNLOADED copy 2.wav_split_15,P2_UNLOADED
+1954,background_eric_doing_stuff.wav_split_31,BACKGROUND_NOISE
+1955,gator.wav_split_24,BACKGROUND_NOISE
+1956,P1_stationary copy.wav_split_22,P1
+1957,background_in_air_iris.wav_split_24,BACKGROUND_NOISE
+1958,P1_up_and_down.wav_split_12,P1
+1959,WSU_P2_UNLOADED_BACK_AND_FORTH copy 2.wav_split_40,P2_UNLOADED
+1960,P1_stationary.wav_split_7,P1
+1961,background_06_02_01.wav_split_19,BACKGROUND_NOISE
+1962,train.wav_split_39,BACKGROUND_NOISE
+1963,in_air_iris_far_away.wav_split_11,BACKGROUND_NOISE
+1964,WSU_P2_UNLOADED_BACK_AND_FORTH copy.wav_split_10,P2_UNLOADED
+1965,background_06_02_04.wav_split_30,BACKGROUND_NOISE
+1966,background_in_air_iris.wav_split_9,BACKGROUND_NOISE
+1967,WSU_P2_UNLOADED_UP_AND_DOWN.wav_split_13,P2_UNLOADED
+1968,P1_stationary.wav_split_13,P1
+1969,WSU_P2_LOADED_up_and_down.wav_split_14,P2_LOADED
+1970,WSU_P2_UNLOADED_BACK_AND_FORTH.wav_split_3,P2_UNLOADED
+1971,background_06_02_01.wav_split_26,BACKGROUND_NOISE
+1972,background_06_02_03.wav_split_37,BACKGROUND_NOISE
+1973,WSU_P2_DOWN_UNLOADED.wav_split_31,P2_UNLOADED
+1974,WSU_P2_LOADED_BACK_AND_FORTH copy 2.wav_split_40,P2_LOADED
+1975,in_air_iris_far_away.wav_split_16,BACKGROUND_NOISE
+1976,WSU_P2_UNLOADED_BACK_AND_FORTH copy.wav_split_17,P2_UNLOADED
+1977,purdue_P2_unloaded_up_down.wav_split_9,P2_UNLOADED
+1978,P1_stationary copy.wav_split_25,P1
+1979,background_in_air_iris.wav_split_23,BACKGROUND_NOISE
+1980,P1_up_and_down.wav_split_15,P1
+1981,gator.wav_split_23,BACKGROUND_NOISE
+1982,WSU_P2_DOWN_UNLOADED.wav_split_36,P2_UNLOADED
+1983,background_06_02_03.wav_split_30,BACKGROUND_NOISE
+1984,background_06_02_01.wav_split_21,BACKGROUND_NOISE
+1985,in_air_iris_far_away.wav_split_29,BACKGROUND_NOISE
+1986,WSU_P2_UNLOADED_BACK_AND_FORTH copy.wav_split_28,P2_UNLOADED
+1987,WSU_P2_UNLOADED_BACK_AND_FORTH.wav_split_4,P2_UNLOADED
+1988,WSU_P2_UNLOADED_UP_AND_DOWN.wav_split_14,P2_UNLOADED
+1989,P1_stationary.wav_split_14,P1
+1990,WSU_P2_LOADED_up_and_down.wav_split_13,P2_LOADED
+1991,background_06_02_04.wav_split_37,BACKGROUND_NOISE
+1992,background_06_02_03.wav_split_39,BACKGROUND_NOISE
+1993,in_air_iris_far_away.wav_split_20,BACKGROUND_NOISE
+1994,WSU_P2_UNLOADED_BACK_AND_FORTH copy.wav_split_21,P2_UNLOADED
+1995,background_06_02_01.wav_split_28,BACKGROUND_NOISE
+1996,WSU_P2_LOADED_BACK_AND_FORTH_2.wav_split_40,P2_LOADED
+1997,gator.wav_split_15,BACKGROUND_NOISE
+1998,background_in_air_iris.wav_split_7,BACKGROUND_NOISE
+1999,background_in_air_iris.wav_split_15,BACKGROUND_NOISE
+2000,P1_stationary copy.wav_split_13,P1
+2001,P1_up_and_down.wav_split_23,P1
+2002,background_06_02_01.wav_split_17,BACKGROUND_NOISE
+2003,train.wav_split_37,BACKGROUND_NOISE
+2004,P1_stationary.wav_split_9,P1
+2005,WSU_P2_DOWN_UNLOADED.wav_split_5,P2_UNLOADED
+2006,background_06_02_02.wav_split_5,BACKGROUND_NOISE
+2007,WSU_P2_UNLOADED_UP_AND_DOWN.wav_split_22,P2_UNLOADED
+2008,P1_stationary.wav_split_22,P1
+2009,WSU_P2_LOADED_up_and_down.wav_split_25,P2_LOADED
+2010,background_in_air_iris.wav_split_12,BACKGROUND_NOISE
+2011,P1_stationary copy.wav_split_14,P1
+2012,P1_up_and_down.wav_split_24,P1
+2013,WSU_P2_DOWN_UNLOADED copy 2.wav_split_40,P2_UNLOADED
+2014,background_06_02_04.wav_split_39,BACKGROUND_NOISE
+2015,gator.wav_split_12,BACKGROUND_NOISE
+2016,in_air_iris_far_away.wav_split_27,BACKGROUND_NOISE
+2017,WSU_P2_UNLOADED_BACK_AND_FORTH copy.wav_split_26,P2_UNLOADED
+2018,WSU_P2_DOWN_UNLOADED.wav_split_38,P2_UNLOADED
+2019,background_06_02_02.wav_split_2,BACKGROUND_NOISE
+2020,WSU_P2_UNLOADED_UP_AND_DOWN.wav_split_25,P2_UNLOADED
+2021,P1_stationary.wav_split_25,P1
+2022,WSU_P2_LOADED_up_and_down.wav_split_22,P2_LOADED
+2023,WSU_P2_DOWN_UNLOADED.wav_split_2,P2_UNLOADED
+2024,in_air_iris_far_away.wav_split_18,BACKGROUND_NOISE
+2025,WSU_P2_UNLOADED_BACK_AND_FORTH copy.wav_split_19,P2_UNLOADED
+2026,background_06_02_01.wav_split_10,BACKGROUND_NOISE
+2027,purdue_P2_unloaded_up_down.wav_split_7,P2_UNLOADED
+2028,train.wav_split_30,BACKGROUND_NOISE
+2029,WSU_P2_LOADED_BACK_AND_FORTH copy.wav_split_8,P2_LOADED
+2030,canopy_up_01.wav_split_30,BACKGROUND_NOISE
+2031,WSU_P2_UNLOADED_BACK_AND_FORTH copy.wav_split_6,P2_UNLOADED
+2032,WSU_P2_UNLOADED_BACK_AND_FORTH copy 2.wav_split_22,P2_UNLOADED
+2033,WSU_P2_DOWN_UNLOADED copy 2.wav_split_14,P2_UNLOADED
+2034,background_in_air_iris_2.wav_split_1,BACKGROUND_NOISE
+2035,P1_stationary copy.wav_split_40,P1
+2036,background_eric_doing_stuff.wav_split_30,BACKGROUND_NOISE
+2037,WSU_P2_LOADED_BACK_AND_FORTH copy 2.wav_split_25,P2_LOADED
+2038,WSU_P2_LOADED_BACK_AND_FORTH_2.wav_split_13,P2_LOADED
+2039,background_in_air_iris_2.wav_split_20,BACKGROUND_NOISE
+2040,purdue_P2_unloaded_up_down copy 2.wav_split_32,P2_UNLOADED
+2041,WSU_P2_UNLOADED_BACK_AND_FORTH copy.wav_split_1,P2_UNLOADED
+2042,canopy_up_01.wav_split_37,BACKGROUND_NOISE
+2043,background_in_air_iris_2.wav_split_18,BACKGROUND_NOISE
+2044,purdue_P2_unloaded_up_down copy 2.wav_split_35,P2_UNLOADED
+2045,P1_up_and_down.wav_split_9,P1
+2046,background_in_air_iris_2.wav_split_27,BACKGROUND_NOISE
+2047,WSU_P2_LOADED_BACK_AND_FORTH_2.wav_split_14,P2_LOADED
+2048,WSU_P2_LOADED_BACK_AND_FORTH copy 2.wav_split_22,P2_LOADED
+2049,background_eric_doing_stuff.wav_split_37,BACKGROUND_NOISE
+2050,WSU_P2_UNLOADED_BACK_AND_FORTH copy 2.wav_split_25,P2_UNLOADED
+2051,WSU_P2_DOWN_UNLOADED copy 2.wav_split_13,P2_UNLOADED
+2052,background_in_air_iris_2.wav_split_6,BACKGROUND_NOISE
+2053,P1_stationary.wav_split_40,P1
+2054,WSU_P2_UNLOADED_UP_AND_DOWN.wav_split_40,P2_UNLOADED
+2055,background_in_air_iris_2.wav_split_11,BACKGROUND_NOISE
+2056,WSU_P2_LOADED_BACK_AND_FORTH_2.wav_split_22,P2_LOADED
+2057,WSU_P2_UNLOADED_BACK_AND_FORTH copy.wav_split_8,P2_UNLOADED
+2058,WSU_P2_LOADED_BACK_AND_FORTH copy 2.wav_split_14,P2_LOADED
+2059,WSU_P2_UNLOADED_BACK_AND_FORTH.wav_split_32,P2_UNLOADED
+2060,WSU_P2_LOADED_BACK_AND_FORTH copy.wav_split_6,P2_LOADED
+2061,in_air_iris_over_home_base.wav_split_32,BACKGROUND_NOISE
+2062,WSU_P2_DOWN_UNLOADED copy 2.wav_split_25,P2_UNLOADED
+2063,WSU_P2_UNLOADED_BACK_AND_FORTH copy 2.wav_split_13,P2_UNLOADED
+2064,WSU_P2_HIGH_LOADED_DOWN.wav_split_2,P2_LOADED
+2065,WSU_P2_LOADED_up_and_down.wav_split_40,P2_LOADED
+2066,background_in_air_iris_2.wav_split_8,BACKGROUND_NOISE
+2067,background_eric_doing_stuff.wav_split_39,BACKGROUND_NOISE
+2068,background_in_air_iris_2.wav_split_29,BACKGROUND_NOISE
+2069,P1_up_and_down.wav_split_7,P1
+2070,WSU_P2_DOWN_UNLOADED copy 2.wav_split_22,P2_UNLOADED
+2071,WSU_P2_UNLOADED_BACK_AND_FORTH copy 2.wav_split_14,P2_UNLOADED
+2072,WSU_P2_HIGH_LOADED_DOWN.wav_split_5,P2_LOADED
+2073,in_air_iris_over_home_base.wav_split_35,BACKGROUND_NOISE
+2074,WSU_P2_LOADED_BACK_AND_FORTH copy.wav_split_1,P2_LOADED
+2075,WSU_P2_UNLOADED_BACK_AND_FORTH.wav_split_35,P2_UNLOADED
+2076,WSU_P2_LOADED_BACK_AND_FORTH copy 2.wav_split_13,P2_LOADED
+2077,WSU_P2_LOADED_BACK_AND_FORTH_2.wav_split_25,P2_LOADED
+2078,background_in_air_iris_2.wav_split_16,BACKGROUND_NOISE
+2079,canopy_up_01.wav_split_39,BACKGROUND_NOISE
